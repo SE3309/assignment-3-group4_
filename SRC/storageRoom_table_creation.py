@@ -18,16 +18,12 @@ cursor.execute("SELECT warehouseID FROM Warehouse")
 warehouseIDs = [row[0] for row in cursor.fetchall()]
 connect.close()
 
-
-# conn = sqlite3.connect('StorageRoomManagement.db')
-# cursor = conn.cursor()
-# cursor.execute("SELECT leaseID, customerEmail FROM LeaseAgreement")
-# lease_data = cursor.fetchall()
-# lease_dict = {leaseID: customerEmail for leaseID, customerEmail in lease_data}
-# conn.close()
-
-
-
+conn = sqlite3.connect('SRC/StorageRoomManagement.db')
+cursor = conn.cursor()
+cursor.execute("SELECT leaseID, email FROM LeaseAgreement")
+lease_data = cursor.fetchall()
+lease_dict = {leaseID: email for leaseID, email in lease_data}
+conn.close()
 
 existing_storageRoomIDs = set()
 
@@ -42,7 +38,7 @@ def generate_storageRoomID(index, warehouseID):
 
 with open(outputFile, mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['roomID', 'roomNo', 'length', 'width', 'height', 'storageType', 'availabilityStatus', 'rentalPricePerDay', 'warehouseID', 'leaseID', 'customerEmail'])
+    writer.writerow(['roomID', 'roomNo', 'length', 'width', 'height', 'storageType', 'availabilityStatus', 'rentalPricePerDay', 'warehouseID', 'leaseID', 'email'])
 
     for i in range(1, numRecords + 1):
         warehouseID = random.choice(warehouseIDs)
@@ -56,16 +52,16 @@ with open(outputFile, mode='w', newline='') as file:
         rentalPricePerDay = round(random.uniform(50.0, 500.0), 2)
         
         leaseID = ''
-        customerEmail = ''
+        email = ''
         
-        # if availabilityStatus == 'Occupied' or availabilityStatus == 'Reserved':
-        #     leaseID = random.choice(list(lease_dict.keys()))
-        #     customerEmail = lease_dict[leaseID]
-        # else:
-        #     leaseID = ''
-        #     customerEmail = ''
+        if availabilityStatus == 'Occupied' or availabilityStatus == 'Reserved':
+            leaseID = random.choice(list(lease_dict.keys()))
+            email = lease_dict[leaseID]
+        else:
+            leaseID = ''
+            email = ''
 
-        writer.writerow([roomID, roomNo, length, width, height, storageType, availabilityStatus, rentalPricePerDay, warehouseID, leaseID, customerEmail])
+        writer.writerow([roomID, roomNo, length, width, height, storageType, availabilityStatus, rentalPricePerDay, warehouseID, leaseID, email])
 
 
 df = pd.read_csv(outputFile)

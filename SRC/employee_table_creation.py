@@ -9,8 +9,6 @@ fake = Faker('en_CA')
 numRecords = 300
 outputFile = 'SRC/employee_data.csv'
 
-branches = ['London', 'Guelph', 'Toronto', 'Waterloo', 'Cambridge', 'Windsor']          # extra attribute need to discuss
-
 existing_emails = set()
 existing_employeeIDs = set()
 
@@ -46,13 +44,13 @@ def generate_raw_data():
     lastName = fake.last_name()
     phoneNo = generate_phone_number()
     email = generate_unique_email(firstName, lastName)
-    branch = random.choice(branches)
-    warehouseID = random.choice(warehouseIDs)
     if random.random() < 0.2:
-        role = 'Maintenance'
+        empRole = 'Maintenance'
     else:
-        role = 'Staff'
-    return [employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role]
+        empRole = 'Staff'
+    warehouseID = random.choice(warehouseIDs)
+    
+    return [employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID]
 
 def generate_manager_data(index):
     employeeID = generate_employeeID(len(existing_employeeIDs) + 1)
@@ -60,10 +58,9 @@ def generate_manager_data(index):
     lastName = fake.last_name()
     phoneNo = generate_phone_number()
     email = generate_unique_email(firstName, lastName)
-    branch = random.choice(branches)
     warehouseID = warehouseIDs[index]
-    role = 'Manager'
-    return [employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role]
+    empRole = 'Manager'
+    return [employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID]
 
 def generate_supervisor_data(index):
     employeeID = generate_employeeID(len(existing_employeeIDs) + 1)
@@ -71,31 +68,28 @@ def generate_supervisor_data(index):
     lastName = fake.last_name()
     phoneNo = generate_phone_number()
     email = generate_unique_email(firstName, lastName)
-    branch = random.choice(branches)
     warehouseID = warehouseIDs[index]
-    role = 'Supervisor'
-    return [employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role]
-
+    empRole = 'Supervisor'
+    return [employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID]
 
 with open(outputFile, mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['employeeID', 'firstName', 'lastName', 'phoneNo', 'email', 'branch', 'warehouseID', 'role'])
+    writer.writerow(['employeeID', 'firstName', 'lastName', 'phoneNo', 'email', 'empRole', 'warehouseID'])
 
     for i in range(0, len(warehouseIDs)):
-        employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role = generate_manager_data(i)
+        employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID = generate_manager_data(i)
 
-        writer.writerow([employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role])
+        writer.writerow([employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID])
 
     for i in range(0, len(warehouseIDs)):
-        employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role = generate_supervisor_data(i)
-        writer.writerow([employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role])
-        employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role = generate_supervisor_data(i)
-        writer.writerow([employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role])
+        employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID = generate_supervisor_data(i)
+        writer.writerow([employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID])
+        employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID = generate_supervisor_data(i)
+        writer.writerow([employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID])
 
     for i in range(1, numRecords - 2 * len(warehouseIDs) + 1):
-        employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role = generate_raw_data()
-
-        writer.writerow([employeeID, firstName, lastName, phoneNo, email, branch, warehouseID, role])
+        employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID = generate_raw_data()
+        writer.writerow([employeeID, firstName, lastName, phoneNo, email, empRole, warehouseID])
 
 print(f"Generated {numRecords} records in {outputFile}")
 
