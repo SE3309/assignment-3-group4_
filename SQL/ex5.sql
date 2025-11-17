@@ -54,3 +54,24 @@ LEFT JOIN Transactions t
     ON t.transactionID = la.transactionID
 GROUP BY w.warehouseID
 ORDER BY totalRevenue DESC;
+
+/*Find customers who rented more than one room */
+SELECT
+    c.customerID,
+    c.fName,
+    c.lName,
+    COUNT(sr.roomID) AS roomsRented
+FROM Customer c
+LEFT JOIN LeaseAgreement la
+    ON la.customerID = c.customerID     
+LEFT JOIN StorageRoom sr
+    ON sr.leaseID = la.leaseID
+GROUP BY
+    c.customerID,
+    c.fName,
+    c.lName
+HAVING
+    COUNT(sr.roomID) > 1
+ORDER BY roomsRented DESC;
+
+
