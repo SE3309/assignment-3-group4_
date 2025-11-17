@@ -1,6 +1,7 @@
 CREATE TABLE PostalArea (
-    postalCode VARCHAR(8) PRIMARY KEY,
-    city VARCHAR(200) NOT NULL
+    postalCode VARCHAR(8),
+    city VARCHAR(200) NOT NULL,
+    PRIMARY KEY (postalCode)
 );
 
 CREATE TABLE Warehouse (
