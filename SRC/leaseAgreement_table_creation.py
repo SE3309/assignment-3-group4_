@@ -43,7 +43,7 @@ def generate_raw_data():
     leaseCondition = random.choice(conditions)    
     emailAddress = random.choice(customerEmails)
     transactionID = random.choice(transactionIDs)
-    discountID = random.choice(discountIDs) if random.random() >= 0.8 else None
+    discountID = random.choice(discountIDs) if random.random() >= 0.8 else 'NULL'
 
     return [
         leaseID,
