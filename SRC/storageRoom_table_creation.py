@@ -51,15 +51,15 @@ with open(outputFile, mode='w', newline='') as file:
         availabilityStatus = random.choice(availabilityStatuses)
         rentalPricePerDay = round(random.uniform(50.0, 500.0), 2)
         
-        leaseID = ''
-        email = ''
+        leaseID = 'NULL'
+        email = 'NULL'
         
         if availabilityStatus == 'Occupied' or availabilityStatus == 'Reserved':
             leaseID = random.choice(list(lease_dict.keys()))
             email = lease_dict[leaseID]
         else:
-            leaseID = ''
-            email = ''
+            leaseID = 'NULL'
+            email = 'NULL'
 
         writer.writerow([roomID, roomNo, length, width, height, storageType, availabilityStatus, rentalPricePerDay, warehouseID, leaseID, email])
 

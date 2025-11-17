@@ -39,7 +39,6 @@ def generate_raw_data():
     
     startDate = fake.date_between(start_date='-2y', end_date='today')
     endDate = fake.date_between(start_date=startDate, end_date='+2y')
-    durationMonths = (endDate.year - startDate.year) * 12 + (endDate.month - startDate.month)
     leaseCondition = random.choice(conditions)    
     emailAddress = random.choice(customerEmails)
     transactionID = random.choice(transactionIDs)
@@ -49,7 +48,6 @@ def generate_raw_data():
         leaseID,
         startDate,
         endDate,
-        durationMonths,
         leaseCondition,
         emailAddress,
         transactionID,
@@ -63,7 +61,6 @@ with open(outputFile, mode='w', newline='') as file:
         'leaseID',
         'startDate',
         'endDate',
-        'durationMonths',
         'leaseCondition',
         'email',
         'transactionID',

@@ -1,501 +1,501 @@
 roomID,roomNo,length,width,height,storageType,availabilityStatus,rentalPricePerDay,warehouseID,leaseID,email
-SRW0050001,R932,48.18,43.46,6.83,Hazardous Materials Storage,Occupied,479.2,W005,L01054,karen.diaz9894@yahoo.com
-SRW0060002,R912,39.32,35.43,14.24,Cold Storage,Available,86.7,W006,,
-SRW0010003,R294,29.24,5.73,3.54,General Storage,Under Maintenance,301.98,W001,,
-SRW0070004,R233,37.24,49.46,11.22,Hazardous Materials Storage,Under Maintenance,418.05,W007,,
-SRW0090005,R447,23.74,38.84,4.0,Hazardous Materials Storage,Available,243.02,W009,,
-SRW0030006,R885,29.84,24.42,6.54,Bulk Storage,Under Maintenance,120.56,W003,,
-SRW0100007,R397,17.74,41.04,10.66,General Storage,Under Maintenance,125.48,W010,,
-SRW0080008,R389,44.07,47.83,14.77,Cold Storage,Under Maintenance,210.67,W008,,
-SRW0020009,R299,22.35,34.97,13.21,Cold Storage,Available,412.91,W002,,
-SRW0090010,R728,17.64,37.96,7.45,Bulk Storage,Reserved,364.53,W009,L01127,alejandro.fuentes5462@gmail.com
-SRW0070011,R194,11.29,12.08,13.96,Hazardous Materials Storage,Reserved,404.89,W007,L02441,anthony.kim8763@yahoo.com
-SRW0090012,R206,8.16,6.55,12.37,Bulk Storage,Under Maintenance,356.75,W009,,
-SRW0050013,R795,18.05,48.17,9.18,Bulk Storage,Available,474.64,W005,,
-SRW0090014,R648,15.82,29.22,4.26,Dry Storage,Occupied,475.55,W009,L00701,tyler.walker6174@gmail.com
-SRW0100015,R469,47.59,23.01,9.75,Cold Storage,Reserved,435.11,W010,L00780,gerald.williams2426@yahoo.com
-SRW0070016,R400,19.36,38.88,9.85,Hazardous Materials Storage,Under Maintenance,365.7,W007,,
-SRW0080017,R339,49.83,36.0,9.29,Hazardous Materials Storage,Under Maintenance,144.93,W008,,
-SRW0050018,R175,30.1,5.46,6.02,General Storage,Occupied,189.04,W005,L02008,emily.salas2962@gmail.com
-SRW0020019,R163,32.44,48.04,10.1,Bulk Storage,Occupied,448.98,W002,L02845,lisa.sawyer1312@gmail.com
-SRW0070020,R403,37.96,11.9,8.24,Hazardous Materials Storage,Under Maintenance,433.69,W007,,
-SRW0020021,R568,7.14,41.73,7.31,Dry Storage,Available,155.79,W002,,
-SRW0020022,R952,42.54,18.8,12.98,General Storage,Occupied,397.09,W002,L01809,sarah.hubbard2664@yahoo.com
-SRW0080023,R648,48.05,11.79,6.81,Dry Storage,Under Maintenance,464.21,W008,,
-SRW0010024,R496,49.91,16.82,5.27,General Storage,Under Maintenance,243.14,W001,,
-SRW0020025,R775,38.05,49.77,11.86,Dry Storage,Under Maintenance,215.68,W002,,
-SRW0030026,R320,22.78,39.91,6.43,Cold Storage,Reserved,119.51,W003,L02066,deborah.key1901@hotmail.com
-SRW0070027,R285,8.73,35.05,5.44,Bulk Storage,Occupied,357.67,W007,L02015,jamie.ellis7736@hotmail.com
-SRW0020028,R262,19.12,44.32,12.73,Hazardous Materials Storage,Reserved,214.34,W002,L02851,ashley.matthews218@gmail.com
-SRW0010029,R489,10.15,37.09,12.56,General Storage,Under Maintenance,463.82,W001,,
-SRW0010030,R380,49.12,32.11,4.49,General Storage,Under Maintenance,124.1,W001,,
-SRW0030031,R521,19.3,26.64,10.83,Cold Storage,Reserved,425.26,W003,L02253,michelle.davis976@gmail.com
-SRW0080032,R822,12.13,38.77,12.1,Dry Storage,Available,270.72,W008,,
-SRW0010033,R921,26.5,32.79,3.81,General Storage,Occupied,154.59,W001,L00427,adrian.perez4976@hotmail.com
-SRW0020034,R149,44.71,7.91,10.51,Hazardous Materials Storage,Available,259.69,W002,,
-SRW0080035,R598,14.66,16.29,10.46,General Storage,Under Maintenance,358.42,W008,,
-SRW0100036,R575,22.15,38.22,10.69,Cold Storage,Occupied,228.34,W010,L02809,derrick.brown5824@hotmail.com
-SRW0050037,R631,48.93,10.3,11.82,General Storage,Under Maintenance,323.22,W005,,
-SRW0060038,R175,11.78,30.69,9.87,Hazardous Materials Storage,Occupied,181.79,W006,L01323,sherry.chavez3056@yahoo.com
-SRW0060039,R795,33.11,48.7,13.61,Dry Storage,Under Maintenance,286.74,W006,,
-SRW0090040,R853,7.67,45.09,11.3,Cold Storage,Occupied,253.14,W009,L01607,shane.barnett5119@hotmail.com
-SRW0050041,R479,13.4,6.5,8.72,Cold Storage,Under Maintenance,125.89,W005,,
-SRW0100042,R972,42.74,41.16,13.46,General Storage,Reserved,100.93,W010,L00493,amanda.parrish6718@hotmail.com
-SRW0090043,R174,7.93,18.01,5.99,General Storage,Under Maintenance,328.19,W009,,
-SRW0050044,R423,22.23,40.7,13.71,Hazardous Materials Storage,Under Maintenance,485.09,W005,,
-SRW0100045,R679,44.65,46.65,12.83,Bulk Storage,Available,422.35,W010,,
-SRW0040046,R216,13.93,17.17,3.15,Hazardous Materials Storage,Available,109.34,W004,,
-SRW0070047,R675,8.23,43.57,9.72,General Storage,Under Maintenance,390.66,W007,,
-SRW0040048,R827,10.26,48.33,13.91,Bulk Storage,Available,258.1,W004,,
-SRW0030049,R992,9.56,35.81,9.84,Bulk Storage,Under Maintenance,491.62,W003,,
-SRW0050050,R746,36.85,9.73,5.44,Hazardous Materials Storage,Occupied,200.73,W005,L01635,sandra.jones1558@gmail.com
-SRW0010051,R210,7.16,36.98,7.25,Hazardous Materials Storage,Available,60.74,W001,,
-SRW0080052,R851,11.18,27.05,13.61,Bulk Storage,Available,255.21,W008,,
-SRW0010053,R776,35.77,6.31,14.33,Cold Storage,Available,217.24,W001,,
-SRW0030054,R913,24.08,28.21,4.16,Cold Storage,Available,72.65,W003,,
-SRW0080055,R836,18.41,12.84,10.64,Cold Storage,Reserved,332.14,W008,L01084,lisa.juarez6782@hotmail.com
-SRW0090056,R464,9.71,5.78,13.72,Cold Storage,Occupied,166.89,W009,L01961,christine.coleman8108@hotmail.com
-SRW0060057,R637,33.08,37.01,13.02,Bulk Storage,Reserved,439.34,W006,L02555,michael.moore6298@yahoo.com
-SRW0070058,R678,26.13,44.75,3.43,Dry Storage,Available,287.08,W007,,
-SRW0100059,R646,48.13,34.92,11.9,Bulk Storage,Reserved,425.16,W010,L00098,jonathan.anderson8230@yahoo.com
-SRW0080060,R904,42.52,29.1,13.17,Bulk Storage,Occupied,382.24,W008,L01059,brian.king5518@yahoo.com
-SRW0060061,R264,29.18,32.54,8.26,Cold Storage,Under Maintenance,201.26,W006,,
-SRW0090062,R840,46.62,28.05,11.67,General Storage,Reserved,288.43,W009,L01885,jennifer.maldonado9987@yahoo.com
-SRW0090063,R839,12.43,6.79,7.64,Dry Storage,Under Maintenance,279.77,W009,,
-SRW0100064,R834,8.71,40.18,13.61,General Storage,Under Maintenance,170.08,W010,,
-SRW0100065,R369,47.05,48.21,9.96,Bulk Storage,Available,142.41,W010,,
-SRW0030066,R762,27.01,12.93,3.1,Bulk Storage,Occupied,450.57,W003,L01647,jennifer.gill5008@gmail.com
-SRW0070067,R951,27.2,13.27,11.51,General Storage,Under Maintenance,304.63,W007,,
-SRW0050068,R283,44.93,34.33,13.43,Cold Storage,Under Maintenance,212.8,W005,,
-SRW0050069,R933,44.19,48.29,5.12,Hazardous Materials Storage,Occupied,393.25,W005,L00047,kimberly.coffey3095@hotmail.com
-SRW0050070,R935,21.83,29.97,12.41,Dry Storage,Available,419.36,W005,,
-SRW0030071,R693,38.26,35.8,14.15,Hazardous Materials Storage,Under Maintenance,73.61,W003,,
-SRW0070072,R529,16.31,19.85,11.29,Bulk Storage,Available,211.04,W007,,
-SRW0040073,R183,40.34,28.82,5.07,General Storage,Reserved,448.86,W004,L01931,mark.velazquez8132@gmail.com
-SRW0090074,R663,22.65,11.33,10.86,Hazardous Materials Storage,Under Maintenance,254.07,W009,,
-SRW0080075,R176,14.78,17.75,14.99,Hazardous Materials Storage,Occupied,477.63,W008,L00792,dustin.price5476@yahoo.com
-SRW0100076,R532,18.83,32.38,7.21,Cold Storage,Under Maintenance,421.13,W010,,
-SRW0020077,R718,12.86,29.27,9.43,Cold Storage,Reserved,269.39,W002,L02064,amanda.dunn2773@yahoo.com
-SRW0010078,R593,29.14,8.79,14.58,General Storage,Reserved,113.47,W001,L00880,james.suarez4214@gmail.com
-SRW0040079,R260,24.02,14.41,10.41,Hazardous Materials Storage,Reserved,231.53,W004,L00344,crystal.dixon8873@hotmail.com
-SRW0010080,R221,28.95,38.3,4.2,General Storage,Reserved,164.92,W001,L00950,linda.mcguire4073@yahoo.com
-SRW0040081,R585,41.25,46.89,6.65,General Storage,Reserved,163.16,W004,L01989,john.miller2812@hotmail.com
-SRW0080082,R857,15.58,46.89,5.62,Dry Storage,Under Maintenance,409.65,W008,,
-SRW0020083,R625,13.36,49.1,13.8,Hazardous Materials Storage,Occupied,75.23,W002,L00053,stacie.anderson7893@gmail.com
-SRW0050084,R608,18.74,27.48,10.82,General Storage,Under Maintenance,320.88,W005,,
-SRW0090085,R394,34.93,40.95,4.58,General Storage,Reserved,217.02,W009,L02206,valerie.acosta4047@gmail.com
-SRW0090086,R425,10.89,12.46,11.46,General Storage,Available,276.76,W009,,
-SRW0100087,R564,37.15,47.22,4.99,Hazardous Materials Storage,Under Maintenance,60.81,W010,,
-SRW0030088,R816,46.64,25.55,10.83,Hazardous Materials Storage,Available,280.7,W003,,
-SRW0050089,R144,14.25,12.56,6.91,Cold Storage,Occupied,498.5,W005,L00126,sarah.johnson5447@hotmail.com
-SRW0080090,R901,11.51,18.68,12.07,Dry Storage,Occupied,98.81,W008,L00251,james.edwards6518@hotmail.com
-SRW0050091,R850,23.44,47.07,6.36,General Storage,Under Maintenance,346.05,W005,,
-SRW0070092,R685,15.39,30.56,7.7,Hazardous Materials Storage,Available,473.4,W007,,
-SRW0050093,R667,13.46,48.01,11.16,Cold Storage,Reserved,141.62,W005,L02105,christian.collins2756@hotmail.com
-SRW0060094,R242,6.69,29.65,7.77,Dry Storage,Occupied,327.06,W006,L00648,tyler.walker6174@gmail.com
-SRW0030095,R996,38.86,30.81,10.73,Dry Storage,Reserved,393.74,W003,L00046,paul.huynh6241@hotmail.com
-SRW0050096,R567,14.99,25.31,10.61,General Storage,Reserved,412.05,W005,L01648,lori.jones5820@yahoo.com
-SRW0020097,R378,43.9,44.07,10.61,Dry Storage,Reserved,256.63,W002,L02165,jennifer.maldonado9987@yahoo.com
-SRW0010098,R849,18.43,27.58,5.98,Cold Storage,Reserved,140.37,W001,L02524,jasmine.hoover5683@yahoo.com
-SRW0030099,R531,14.38,23.57,11.93,Bulk Storage,Available,146.18,W003,,
-SRW0020100,R590,34.27,21.35,10.34,Cold Storage,Occupied,258.3,W002,L01234,cynthia.williams3766@yahoo.com
-SRW0080101,R863,38.7,16.74,4.92,Bulk Storage,Under Maintenance,147.32,W008,,
-SRW0090102,R750,32.63,9.88,3.64,Bulk Storage,Under Maintenance,195.38,W009,,
-SRW0060103,R609,35.81,48.98,11.45,Dry Storage,Occupied,367.51,W006,L01556,bradley.wolf9951@hotmail.com
-SRW0080104,R277,32.7,17.31,8.8,Bulk Storage,Occupied,438.82,W008,L01869,michael.smith8728@hotmail.com
-SRW0050105,R384,45.94,10.7,12.91,Cold Storage,Reserved,258.75,W005,L01515,caitlin.collins4377@hotmail.com
-SRW0050106,R257,14.34,32.17,10.73,Cold Storage,Occupied,135.58,W005,L02764,shawn.palmer1721@yahoo.com
-SRW0070107,R697,36.89,38.23,12.63,Hazardous Materials Storage,Reserved,63.3,W007,L02142,carolyn.lopez4005@yahoo.com
-SRW0070108,R299,13.52,42.09,5.77,Bulk Storage,Occupied,291.42,W007,L01744,jessica.ramirez2029@gmail.com
-SRW0030109,R255,28.69,20.62,13.48,Dry Storage,Under Maintenance,383.72,W003,,
-SRW0080110,R138,40.32,23.58,12.15,General Storage,Reserved,284.37,W008,L02395,jordan.reynolds5608@hotmail.com
-SRW0090111,R893,29.4,45.68,6.38,Hazardous Materials Storage,Available,145.84,W009,,
-SRW0040112,R819,8.37,37.71,14.54,Hazardous Materials Storage,Reserved,491.73,W004,L00030,morgan.hall3063@gmail.com
-SRW0060113,R402,8.74,14.36,12.92,Hazardous Materials Storage,Reserved,375.88,W006,L01603,alex.hartman351@yahoo.com
-SRW0070114,R723,43.22,26.12,11.59,Cold Storage,Under Maintenance,330.35,W007,,
-SRW0040115,R987,43.42,41.68,10.48,Dry Storage,Reserved,112.29,W004,L02226,mary.villanueva6749@gmail.com
-SRW0090116,R958,31.73,30.56,8.37,General Storage,Reserved,52.26,W009,L01227,thomas.gomez5606@gmail.com
-SRW0060117,R844,9.7,14.91,10.75,Cold Storage,Under Maintenance,359.09,W006,,
-SRW0070118,R435,9.26,13.77,3.68,Dry Storage,Occupied,131.74,W007,L01294,ronald.anderson4629@yahoo.com
-SRW0020119,R555,46.46,28.9,9.32,Cold Storage,Under Maintenance,80.12,W002,,
-SRW0050120,R558,26.06,30.56,4.97,Hazardous Materials Storage,Available,183.67,W005,,
-SRW0100121,R669,6.67,35.37,14.3,Dry Storage,Under Maintenance,109.73,W010,,
-SRW0100122,R971,45.96,28.79,11.34,Bulk Storage,Available,104.89,W010,,
-SRW0030123,R610,5.62,31.0,13.9,Bulk Storage,Under Maintenance,296.52,W003,,
-SRW0070124,R336,46.38,27.93,8.05,Cold Storage,Reserved,155.0,W007,L02865,ashley.hunt9856@gmail.com
-SRW0070125,R173,9.37,42.44,3.87,Bulk Storage,Under Maintenance,434.26,W007,,
-SRW0010126,R220,36.08,14.39,5.82,Hazardous Materials Storage,Under Maintenance,451.14,W001,,
-SRW0060127,R673,6.06,7.19,4.99,Dry Storage,Available,417.97,W006,,
-SRW0090128,R452,47.04,45.24,7.82,Bulk Storage,Occupied,71.77,W009,L00724,aaron.evans9523@hotmail.com
-SRW0100129,R576,22.26,35.24,4.22,Dry Storage,Under Maintenance,254.57,W010,,
-SRW0070130,R698,42.36,13.33,14.44,Hazardous Materials Storage,Reserved,343.09,W007,L00754,david.vincent5346@yahoo.com
-SRW0100131,R558,14.66,5.23,11.74,General Storage,Occupied,65.26,W010,L02576,stephanie.rogers977@hotmail.com
-SRW0080132,R832,43.4,42.1,10.94,Cold Storage,Available,117.07,W008,,
-SRW0080133,R335,26.4,31.84,13.12,Hazardous Materials Storage,Available,309.82,W008,,
-SRW0080134,R282,17.5,41.25,7.86,Hazardous Materials Storage,Available,300.77,W008,,
-SRW0010135,R784,31.38,15.54,6.95,Hazardous Materials Storage,Reserved,154.91,W001,L01950,amber.webb6758@gmail.com
-SRW0030136,R749,37.78,9.98,7.28,Hazardous Materials Storage,Occupied,462.96,W003,L00415,deborah.cox5271@hotmail.com
-SRW0020137,R262,15.29,47.25,5.04,Bulk Storage,Under Maintenance,67.13,W002,,
-SRW0070138,R390,8.03,20.31,3.27,Dry Storage,Under Maintenance,250.08,W007,,
-SRW0100139,R222,41.57,6.7,13.37,Bulk Storage,Occupied,217.73,W010,L00419,shelby.shelton5331@gmail.com
-SRW0040140,R512,42.44,26.09,10.15,Bulk Storage,Reserved,416.11,W004,L01262,rachel.martinez8621@gmail.com
-SRW0090141,R663,8.34,14.12,6.02,General Storage,Occupied,389.89,W009,L00240,jay.johnson6563@hotmail.com
-SRW0030142,R659,43.96,44.32,6.73,General Storage,Under Maintenance,459.43,W003,,
-SRW0100143,R963,40.82,7.32,3.28,Cold Storage,Under Maintenance,172.68,W010,,
-SRW0020144,R453,21.27,37.91,4.0,General Storage,Occupied,275.86,W002,L01695,laura.tran5943@hotmail.com
-SRW0040145,R191,36.46,37.21,10.91,Cold Storage,Available,114.13,W004,,
-SRW0050146,R958,40.2,7.11,5.34,Dry Storage,Occupied,191.78,W005,L01740,shawn.murray2655@hotmail.com
-SRW0080147,R934,28.58,39.93,4.79,Dry Storage,Reserved,327.29,W008,L02541,hannah.schmidt4362@gmail.com
-SRW0100148,R867,12.93,31.51,7.25,Hazardous Materials Storage,Occupied,251.29,W010,L02595,sharon.castaneda5559@yahoo.com
-SRW0100149,R332,19.29,37.7,3.25,Cold Storage,Available,87.62,W010,,
-SRW0030150,R615,18.77,7.71,15.0,Cold Storage,Available,302.8,W003,,
-SRW0100151,R439,44.68,49.54,10.35,Cold Storage,Reserved,327.77,W010,L02705,jonathan.rodriguez7986@hotmail.com
-SRW0080152,R661,17.9,41.16,14.19,Hazardous Materials Storage,Reserved,233.91,W008,L00705,melissa.smith6742@hotmail.com
-SRW0090153,R934,19.74,27.88,4.27,Bulk Storage,Reserved,365.18,W009,L01070,robert.williams5403@hotmail.com
-SRW0050154,R652,7.69,44.89,12.47,Hazardous Materials Storage,Under Maintenance,449.13,W005,,
-SRW0040155,R115,6.58,48.92,11.39,Bulk Storage,Available,151.03,W004,,
-SRW0100156,R274,30.15,39.36,4.52,Hazardous Materials Storage,Under Maintenance,493.11,W010,,
-SRW0100157,R972,32.64,46.65,11.34,Bulk Storage,Occupied,450.06,W010,L00666,crystal.perkins3916@yahoo.com
-SRW0100158,R751,32.22,17.02,5.26,Cold Storage,Available,452.52,W010,,
-SRW0030159,R901,6.81,38.09,12.93,Cold Storage,Reserved,467.45,W003,L01189,james.nielsen2059@yahoo.com
-SRW0100160,R919,40.73,32.86,10.58,Hazardous Materials Storage,Under Maintenance,363.54,W010,,
-SRW0030161,R875,36.96,10.84,13.71,Hazardous Materials Storage,Reserved,202.7,W003,L00851,michael.velasquez9535@yahoo.com
-SRW0040162,R840,31.05,6.23,8.66,Bulk Storage,Occupied,131.86,W004,L00886,jordan.reynolds5608@hotmail.com
-SRW0030163,R993,38.16,37.01,14.76,General Storage,Reserved,284.95,W003,L01206,craig.thompson7953@hotmail.com
-SRW0090164,R832,32.04,37.18,11.47,General Storage,Occupied,284.94,W009,L00861,stanley.anderson1408@gmail.com
-SRW0040165,R979,12.84,15.7,5.49,Hazardous Materials Storage,Occupied,149.35,W004,L02607,melinda.burns8256@gmail.com
-SRW0020166,R135,49.85,23.82,4.41,General Storage,Reserved,60.74,W002,L01455,antonio.reynolds7245@gmail.com
-SRW0020167,R772,10.11,33.52,13.63,Bulk Storage,Available,100.59,W002,,
-SRW0100168,R826,40.29,23.2,8.61,Dry Storage,Under Maintenance,394.23,W010,,
-SRW0070169,R352,29.5,17.74,13.53,Dry Storage,Under Maintenance,337.68,W007,,
-SRW0060170,R884,10.73,28.62,5.01,Cold Storage,Occupied,450.99,W006,L00823,jeffrey.palmer8611@hotmail.com
-SRW0030171,R845,46.14,25.7,14.89,Hazardous Materials Storage,Under Maintenance,130.42,W003,,
-SRW0070172,R105,16.25,32.93,14.48,Bulk Storage,Reserved,174.94,W007,L00938,ashley.miller1849@yahoo.com
-SRW0010173,R437,30.82,46.18,10.99,Bulk Storage,Under Maintenance,391.67,W001,,
-SRW0010174,R396,30.01,47.56,7.89,Hazardous Materials Storage,Occupied,321.89,W001,L02452,natalie.cannon4212@yahoo.com
-SRW0020175,R955,13.47,8.64,7.4,General Storage,Under Maintenance,73.54,W002,,
-SRW0020176,R799,15.19,11.17,13.53,Hazardous Materials Storage,Available,235.65,W002,,
-SRW0060177,R181,37.25,36.73,3.05,Cold Storage,Occupied,313.25,W006,L01707,isabella.pearson3133@gmail.com
-SRW0100178,R526,17.38,26.42,8.79,Cold Storage,Available,479.62,W010,,
-SRW0020179,R414,29.05,22.02,5.57,Hazardous Materials Storage,Available,59.41,W002,,
-SRW0020180,R952,36.74,10.26,10.37,General Storage,Available,202.69,W002,,
-SRW0010181,R182,32.83,39.22,11.01,Bulk Storage,Available,489.77,W001,,
-SRW0040182,R722,12.91,12.48,8.1,Bulk Storage,Occupied,395.53,W004,L02957,diana.miller4685@hotmail.com
-SRW0010183,R514,15.26,16.68,12.47,Bulk Storage,Occupied,238.4,W001,L00174,francisco.robinson688@yahoo.com
-SRW0050184,R304,8.71,5.74,4.46,General Storage,Under Maintenance,150.18,W005,,
-SRW0090185,R388,18.82,41.73,6.92,Dry Storage,Under Maintenance,421.6,W009,,
-SRW0020186,R189,20.34,47.19,14.12,Hazardous Materials Storage,Under Maintenance,155.23,W002,,
-SRW0090187,R586,27.5,8.88,13.35,Bulk Storage,Available,218.23,W009,,
-SRW0090188,R491,31.42,30.1,10.07,Bulk Storage,Under Maintenance,469.53,W009,,
-SRW0100189,R798,48.17,45.86,13.2,Hazardous Materials Storage,Occupied,242.13,W010,L02572,brittany.alexander1878@yahoo.com
-SRW0090190,R447,13.49,35.69,6.24,General Storage,Reserved,161.05,W009,L00816,scott.morse9027@gmail.com
-SRW0040191,R570,45.78,14.61,11.14,Cold Storage,Under Maintenance,261.24,W004,,
-SRW0070192,R170,32.63,32.39,9.15,Cold Storage,Under Maintenance,293.7,W007,,
-SRW0100193,R467,48.52,29.87,3.94,General Storage,Reserved,200.07,W010,L00752,sandra.leonard4059@hotmail.com
-SRW0010194,R917,36.31,20.07,8.73,Hazardous Materials Storage,Under Maintenance,382.74,W001,,
-SRW0020195,R642,17.6,33.61,6.12,General Storage,Under Maintenance,351.27,W002,,
-SRW0010196,R538,39.13,32.87,12.65,General Storage,Reserved,463.44,W001,L01997,vickie.smith4882@hotmail.com
-SRW0040197,R235,46.44,45.12,8.0,General Storage,Occupied,324.86,W004,L01913,todd.rodriguez7609@hotmail.com
-SRW0090198,R848,39.42,8.38,3.72,General Storage,Reserved,165.7,W009,L00420,autumn.coleman4664@yahoo.com
-SRW0020199,R252,17.83,39.98,12.53,Bulk Storage,Available,227.93,W002,,
-SRW0040200,R323,7.51,47.58,7.26,Cold Storage,Reserved,467.82,W004,L02474,renee.santiago7356@hotmail.com
-SRW0060201,R186,23.76,15.57,6.92,General Storage,Available,160.03,W006,,
-SRW0030202,R106,42.22,8.9,14.36,Hazardous Materials Storage,Reserved,491.46,W003,L02655,meghan.kaufman3793@yahoo.com
-SRW0070203,R764,20.45,19.41,14.77,Bulk Storage,Occupied,312.89,W007,L00620,evan.lewis9526@hotmail.com
-SRW0070204,R177,9.7,38.91,10.18,Cold Storage,Reserved,436.68,W007,L00241,mary.vega7933@yahoo.com
-SRW0030205,R611,6.57,15.71,4.9,Dry Storage,Occupied,98.41,W003,L00586,jacqueline.williams6782@gmail.com
-SRW0050206,R706,15.09,41.95,10.16,General Storage,Available,290.75,W005,,
-SRW0020207,R618,20.19,37.39,8.41,Bulk Storage,Occupied,237.83,W002,L00310,jennifer.padilla9153@hotmail.com
-SRW0070208,R345,38.65,41.71,13.13,General Storage,Under Maintenance,65.98,W007,,
-SRW0050209,R998,12.52,9.12,6.75,Hazardous Materials Storage,Reserved,134.85,W005,L02538,mary.romero2646@yahoo.com
-SRW0040210,R946,7.17,34.54,13.65,General Storage,Occupied,417.88,W004,L01421,leslie.wallace5703@yahoo.com
-SRW0060211,R171,33.93,24.21,13.67,Bulk Storage,Available,189.66,W006,,
-SRW0020212,R438,9.15,20.35,5.45,Hazardous Materials Storage,Under Maintenance,198.01,W002,,
-SRW0050213,R880,20.24,7.73,4.81,General Storage,Available,302.45,W005,,
-SRW0100214,R918,38.82,16.02,6.4,Dry Storage,Under Maintenance,124.86,W010,,
-SRW0060215,R535,41.45,40.45,10.36,Dry Storage,Occupied,455.86,W006,L00756,robert.hill7704@hotmail.com
-SRW0050216,R890,5.7,31.57,10.29,General Storage,Under Maintenance,162.5,W005,,
-SRW0010217,R349,24.72,27.8,3.46,General Storage,Available,211.66,W001,,
-SRW0010218,R336,31.84,5.63,3.14,General Storage,Occupied,223.85,W001,L02292,debra.peterson9866@hotmail.com
-SRW0080219,R271,18.08,42.01,9.11,Dry Storage,Occupied,325.8,W008,L01863,matthew.cobb3175@hotmail.com
-SRW0010220,R451,14.92,22.48,10.05,Cold Storage,Occupied,301.13,W001,L00827,david.fowler524@yahoo.com
-SRW0040221,R765,34.74,34.03,8.99,General Storage,Under Maintenance,366.68,W004,,
-SRW0090222,R956,22.56,37.42,5.58,Hazardous Materials Storage,Reserved,203.06,W009,L00275,brent.johnson344@gmail.com
-SRW0010223,R320,16.34,24.9,6.33,Cold Storage,Occupied,476.6,W001,L00265,mark.peck2402@yahoo.com
-SRW0050224,R487,30.62,24.97,13.93,Dry Storage,Available,468.08,W005,,
-SRW0050225,R852,44.9,39.61,11.84,Bulk Storage,Reserved,280.37,W005,L02480,samantha.coleman8365@hotmail.com
-SRW0010226,R960,25.34,8.72,11.84,Dry Storage,Under Maintenance,493.97,W001,,
-SRW0040227,R281,29.8,40.34,11.03,Cold Storage,Occupied,329.62,W004,L01301,anna.dodson5014@gmail.com
-SRW0050228,R660,38.59,44.14,11.35,Dry Storage,Under Maintenance,321.96,W005,,
-SRW0080229,R805,32.56,46.86,5.38,Cold Storage,Reserved,394.78,W008,L00344,crystal.dixon8873@hotmail.com
-SRW0100230,R584,23.31,41.31,8.69,Dry Storage,Available,410.65,W010,,
-SRW0090231,R621,28.05,43.21,8.33,Dry Storage,Under Maintenance,485.58,W009,,
-SRW0050232,R241,46.97,17.72,7.28,Bulk Storage,Reserved,364.37,W005,L00706,timothy.wang6724@gmail.com
-SRW0020233,R646,42.91,30.35,14.16,Hazardous Materials Storage,Reserved,318.33,W002,L00561,kevin.anderson4260@yahoo.com
-SRW0090234,R714,37.26,22.55,6.2,General Storage,Under Maintenance,387.42,W009,,
-SRW0030235,R551,39.69,7.47,11.9,Hazardous Materials Storage,Available,431.96,W003,,
-SRW0060236,R138,27.54,13.67,13.92,Cold Storage,Reserved,315.44,W006,L01939,christopher.green2346@yahoo.com
-SRW0080237,R544,14.47,46.7,9.62,Bulk Storage,Under Maintenance,389.68,W008,,
-SRW0060238,R201,31.84,10.67,6.13,Cold Storage,Occupied,344.39,W006,L01590,christopher.green2346@yahoo.com
-SRW0050239,R967,8.64,21.65,4.71,General Storage,Under Maintenance,126.14,W005,,
-SRW0070240,R107,8.91,48.54,9.08,Cold Storage,Reserved,352.73,W007,L00497,christine.robinson7627@hotmail.com
-SRW0060241,R485,38.78,39.25,12.6,Dry Storage,Reserved,144.64,W006,L02440,laura.haas2126@hotmail.com
-SRW0080242,R985,6.51,28.13,5.3,Cold Storage,Under Maintenance,410.31,W008,,
-SRW0010243,R639,7.25,40.08,6.44,Bulk Storage,Available,240.29,W001,,
-SRW0010244,R745,49.15,10.68,3.68,Hazardous Materials Storage,Reserved,431.8,W001,L01493,kyle.rodriguez1624@gmail.com
-SRW0090245,R327,27.88,23.56,14.82,Hazardous Materials Storage,Occupied,161.51,W009,L02051,jonathan.hernandez180@hotmail.com
-SRW0070246,R352,18.48,41.21,11.77,Hazardous Materials Storage,Occupied,299.09,W007,L00015,stefanie.lloyd2825@yahoo.com
-SRW0010247,R893,18.05,16.99,6.75,Cold Storage,Occupied,398.65,W001,L01939,christopher.green2346@yahoo.com
-SRW0040248,R573,7.68,6.2,13.43,General Storage,Reserved,356.63,W004,L01611,darryl.russell2078@yahoo.com
-SRW0030249,R792,41.41,39.74,13.11,Hazardous Materials Storage,Available,221.91,W003,,
-SRW0030250,R497,37.15,40.16,6.53,Bulk Storage,Under Maintenance,358.08,W003,,
-SRW0020251,R413,39.77,7.89,4.38,Hazardous Materials Storage,Under Maintenance,166.71,W002,,
-SRW0050252,R888,13.65,9.52,11.17,Cold Storage,Occupied,454.58,W005,L01407,david.miller7613@hotmail.com
-SRW0060253,R699,6.65,43.88,11.63,Bulk Storage,Reserved,404.86,W006,L00151,laura.schwartz3738@yahoo.com
-SRW0090254,R568,24.12,44.03,8.27,Cold Storage,Reserved,427.34,W009,L02994,danielle.taylor9214@hotmail.com
-SRW0040255,R887,32.98,34.03,14.56,Bulk Storage,Reserved,160.8,W004,L00172,richard.mack1644@hotmail.com
-SRW0100256,R520,21.87,32.14,11.69,General Storage,Reserved,108.62,W010,L00365,lucas.warner7104@gmail.com
-SRW0010257,R557,42.83,44.51,13.58,Hazardous Materials Storage,Reserved,242.38,W001,L00073,karen.cain5062@gmail.com
-SRW0040258,R705,17.38,34.76,3.41,Dry Storage,Under Maintenance,120.62,W004,,
-SRW0050259,R232,21.73,16.64,10.98,Bulk Storage,Available,156.3,W005,,
-SRW0080260,R469,40.93,19.7,6.47,Dry Storage,Available,341.49,W008,,
-SRW0080261,R437,10.87,17.11,11.79,Bulk Storage,Occupied,464.17,W008,L02019,james.lawrence2178@hotmail.com
-SRW0040262,R414,43.27,8.3,3.66,Hazardous Materials Storage,Under Maintenance,304.21,W004,,
-SRW0070263,R271,35.32,10.08,3.54,Bulk Storage,Available,475.98,W007,,
-SRW0060264,R146,10.75,34.39,12.49,General Storage,Available,140.73,W006,,
-SRW0090265,R310,22.73,48.18,10.27,Dry Storage,Reserved,318.87,W009,L02206,valerie.acosta4047@gmail.com
-SRW0080266,R799,35.14,14.13,13.35,Bulk Storage,Under Maintenance,414.09,W008,,
-SRW0050267,R221,48.71,38.0,6.44,General Storage,Under Maintenance,181.46,W005,,
-SRW0090268,R525,49.95,38.92,5.01,Hazardous Materials Storage,Under Maintenance,209.27,W009,,
-SRW0030269,R954,18.21,6.06,9.17,Cold Storage,Reserved,300.31,W003,L01684,lori.west4310@yahoo.com
-SRW0090270,R544,5.83,37.28,5.23,Dry Storage,Occupied,186.52,W009,L02044,maureen.torres9311@gmail.com
-SRW0030271,R689,18.59,40.14,14.19,General Storage,Available,478.0,W003,,
-SRW0070272,R872,6.7,41.04,12.38,Hazardous Materials Storage,Available,199.9,W007,,
-SRW0010273,R660,38.79,12.71,8.34,Cold Storage,Under Maintenance,395.77,W001,,
-SRW0100274,R451,34.38,12.43,9.13,Bulk Storage,Available,129.28,W010,,
-SRW0010275,R364,33.35,43.42,6.15,Hazardous Materials Storage,Reserved,412.25,W001,L01203,willie.miranda9520@hotmail.com
-SRW0020276,R291,6.86,25.38,3.16,Hazardous Materials Storage,Occupied,364.83,W002,L02686,nichole.adams9996@gmail.com
-SRW0020277,R211,6.85,7.69,13.17,Bulk Storage,Reserved,214.36,W002,L01031,rhonda.wilson5958@hotmail.com
-SRW0040278,R973,27.56,32.49,13.75,Hazardous Materials Storage,Under Maintenance,257.53,W004,,
-SRW0050279,R857,21.51,17.11,13.44,Dry Storage,Occupied,104.15,W005,L00563,victor.park6817@hotmail.com
-SRW0050280,R347,48.49,29.9,5.98,Cold Storage,Available,237.1,W005,,
-SRW0050281,R988,42.96,47.62,3.99,Dry Storage,Occupied,190.91,W005,L00896,daniel.graham1721@yahoo.com
-SRW0080282,R648,10.35,47.17,9.13,Hazardous Materials Storage,Occupied,343.37,W008,L02788,laura.king1202@hotmail.com
-SRW0100283,R701,5.66,30.75,14.14,Bulk Storage,Available,486.41,W010,,
-SRW0020284,R416,20.12,38.56,12.8,Dry Storage,Under Maintenance,448.04,W002,,
-SRW0100285,R909,42.79,9.22,6.37,Cold Storage,Occupied,85.07,W010,L00674,christopher.briggs364@yahoo.com
-SRW0050286,R139,21.21,41.02,4.91,General Storage,Occupied,471.14,W005,L00565,christopher.page7233@hotmail.com
-SRW0080287,R283,22.61,46.32,5.22,General Storage,Reserved,196.26,W008,L00413,kevin.miller7375@gmail.com
-SRW0050288,R271,13.65,17.21,4.09,Bulk Storage,Available,386.51,W005,,
-SRW0020289,R916,30.46,28.24,12.14,Dry Storage,Under Maintenance,319.0,W002,,
-SRW0030290,R540,16.18,46.0,10.82,General Storage,Occupied,92.56,W003,L02381,james.jones6769@gmail.com
-SRW0010291,R540,47.57,16.22,6.44,Dry Storage,Available,473.58,W001,,
-SRW0060292,R264,41.1,20.15,6.4,Dry Storage,Occupied,286.89,W006,L02590,debbie.cuevas2925@hotmail.com
-SRW0050293,R361,23.24,10.27,8.7,Cold Storage,Reserved,220.16,W005,L02115,john.gray4929@gmail.com
-SRW0070294,R575,46.86,35.78,11.58,Cold Storage,Occupied,487.39,W007,L00429,shelley.hunter8112@hotmail.com
-SRW0090295,R763,14.84,47.94,6.44,Dry Storage,Occupied,241.02,W009,L02026,derek.johnson5961@hotmail.com
-SRW0060296,R709,20.31,13.11,10.69,General Storage,Under Maintenance,205.29,W006,,
-SRW0070297,R538,31.74,31.55,8.11,Bulk Storage,Reserved,295.14,W007,L00803,daniel.turner8813@yahoo.com
-SRW0050298,R772,5.64,46.11,3.39,Cold Storage,Available,358.19,W005,,
-SRW0070299,R753,34.91,11.55,12.65,Bulk Storage,Available,237.67,W007,,
-SRW0060300,R174,21.32,32.67,12.85,General Storage,Reserved,486.59,W006,L01503,dana.erickson4581@gmail.com
-SRW0010301,R848,48.44,42.01,11.71,Hazardous Materials Storage,Occupied,379.51,W001,L00284,daniel.graham1721@yahoo.com
-SRW0020302,R342,44.84,24.67,14.26,Bulk Storage,Occupied,285.55,W002,L01507,tricia.rivas1170@hotmail.com
-SRW0030303,R675,11.53,8.31,6.09,Bulk Storage,Under Maintenance,258.82,W003,,
-SRW0090304,R532,36.74,30.31,8.36,Bulk Storage,Occupied,145.85,W009,L02905,sandra.clark485@hotmail.com
-SRW0100305,R544,38.62,48.57,14.23,General Storage,Under Maintenance,137.83,W010,,
-SRW0070306,R621,8.96,23.37,14.96,Bulk Storage,Under Maintenance,399.42,W007,,
-SRW0010307,R799,13.21,7.69,8.78,Hazardous Materials Storage,Available,371.2,W001,,
-SRW0030308,R449,38.43,27.45,12.18,Bulk Storage,Available,419.09,W003,,
-SRW0080309,R478,33.9,23.24,7.34,Cold Storage,Available,473.29,W008,,
-SRW0070310,R665,13.43,42.08,14.03,Cold Storage,Under Maintenance,303.38,W007,,
-SRW0090311,R471,48.06,9.72,9.61,Hazardous Materials Storage,Reserved,87.34,W009,L02819,rachel.rogers9097@yahoo.com
-SRW0050312,R523,45.75,35.48,4.03,Bulk Storage,Reserved,113.85,W005,L02625,cynthia.martin8584@hotmail.com
-SRW0080313,R559,12.03,22.26,4.13,Hazardous Materials Storage,Under Maintenance,321.45,W008,,
-SRW0100314,R671,41.04,42.65,5.04,General Storage,Available,259.19,W010,,
-SRW0050315,R450,29.1,9.67,10.13,Cold Storage,Available,374.13,W005,,
-SRW0020316,R625,34.21,20.68,8.19,Hazardous Materials Storage,Under Maintenance,498.98,W002,,
-SRW0090317,R868,18.32,17.31,9.57,Hazardous Materials Storage,Reserved,305.81,W009,L01460,evan.christensen240@hotmail.com
-SRW0070318,R923,26.11,8.51,7.99,Cold Storage,Available,320.14,W007,,
-SRW0080319,R587,22.36,6.07,12.48,Hazardous Materials Storage,Occupied,362.29,W008,L00291,matthew.jones1929@gmail.com
-SRW0050320,R159,7.71,35.14,12.61,Cold Storage,Available,310.22,W005,,
-SRW0020321,R612,19.42,10.38,8.5,General Storage,Occupied,272.65,W002,L01150,brian.bennett6745@yahoo.com
-SRW0090322,R299,34.58,33.01,8.22,Bulk Storage,Available,437.52,W009,,
-SRW0090323,R524,35.87,11.18,4.42,Dry Storage,Available,144.65,W009,,
-SRW0060324,R149,6.33,38.74,10.2,General Storage,Reserved,461.13,W006,L00351,victor.park6817@hotmail.com
-SRW0010325,R957,41.12,25.03,11.14,Hazardous Materials Storage,Reserved,297.3,W001,L01869,michael.smith8728@hotmail.com
-SRW0060326,R205,7.28,9.44,11.77,Bulk Storage,Reserved,357.65,W006,L02229,william.nolan1941@yahoo.com
-SRW0040327,R360,14.6,13.6,11.69,Hazardous Materials Storage,Available,324.83,W004,,
-SRW0080328,R819,14.63,18.26,8.1,Bulk Storage,Occupied,340.49,W008,L02647,kimberly.bowman9859@gmail.com
-SRW0010329,R809,39.97,22.31,4.41,Hazardous Materials Storage,Available,389.37,W001,,
-SRW0100330,R746,38.2,7.45,11.2,Hazardous Materials Storage,Available,65.2,W010,,
-SRW0020331,R204,19.37,23.78,6.42,Bulk Storage,Available,306.56,W002,,
-SRW0070332,R339,5.76,40.96,3.85,Hazardous Materials Storage,Available,485.13,W007,,
-SRW0050333,R215,20.89,37.58,8.91,Bulk Storage,Under Maintenance,424.83,W005,,
-SRW0040334,R337,48.06,43.02,6.03,Bulk Storage,Reserved,172.89,W004,L02162,julia.pearson7986@gmail.com
-SRW0050335,R919,13.99,13.83,8.63,General Storage,Occupied,348.25,W005,L01021,leslie.bray6623@gmail.com
-SRW0060336,R681,35.99,27.71,13.54,Cold Storage,Occupied,75.73,W006,L02473,amanda.jordan2104@gmail.com
-SRW0090337,R504,37.27,39.59,3.99,Cold Storage,Reserved,104.7,W009,L02435,lisa.howard1450@hotmail.com
-SRW0090338,R446,40.18,46.45,7.4,Cold Storage,Available,431.43,W009,,
-SRW0090339,R973,29.76,12.81,12.59,Cold Storage,Under Maintenance,71.54,W009,,
-SRW0100340,R505,43.36,36.72,12.47,Hazardous Materials Storage,Occupied,343.9,W010,L02275,glen.andrews8830@hotmail.com
-SRW0090341,R564,38.86,14.03,6.93,Dry Storage,Reserved,158.0,W009,L01620,matthew.mays8131@gmail.com
-SRW0010342,R445,16.24,20.23,7.15,Cold Storage,Under Maintenance,166.01,W001,,
-SRW0100343,R207,9.77,47.33,7.72,General Storage,Reserved,77.47,W010,L01266,brady.harrington6318@hotmail.com
-SRW0010344,R909,33.64,32.8,3.12,Dry Storage,Reserved,282.91,W001,L01555,felicia.gill6402@yahoo.com
-SRW0100345,R923,43.39,27.43,10.47,Hazardous Materials Storage,Available,289.2,W010,,
-SRW0020346,R734,16.6,10.64,9.71,Hazardous Materials Storage,Available,135.55,W002,,
-SRW0050347,R961,9.81,16.92,10.07,General Storage,Available,162.69,W005,,
-SRW0100348,R348,23.29,34.97,10.35,Dry Storage,Reserved,152.75,W010,L01653,renee.lee8646@gmail.com
-SRW0010349,R192,24.68,30.66,14.39,Hazardous Materials Storage,Available,164.46,W001,,
-SRW0020350,R610,23.06,22.05,3.44,Hazardous Materials Storage,Occupied,370.07,W002,L01609,breanna.sharp512@gmail.com
-SRW0070351,R727,18.35,26.16,10.92,Cold Storage,Available,394.07,W007,,
-SRW0060352,R661,9.11,31.78,10.19,Cold Storage,Occupied,202.06,W006,L00120,stephanie.taylor5488@gmail.com
-SRW0010353,R653,11.68,5.3,5.67,Bulk Storage,Occupied,397.14,W001,L02698,jillian.brown9926@yahoo.com
-SRW0040354,R195,12.82,15.35,12.11,Dry Storage,Reserved,399.59,W004,L02500,melissa.kline4779@yahoo.com
-SRW0030355,R924,39.94,37.54,10.55,Hazardous Materials Storage,Occupied,182.43,W003,L00558,kristi.cuevas4035@gmail.com
-SRW0010356,R530,46.25,24.52,8.09,Dry Storage,Under Maintenance,185.49,W001,,
-SRW0090357,R158,12.76,19.83,10.43,Hazardous Materials Storage,Occupied,462.56,W009,L01278,victoria.collins4956@gmail.com
-SRW0080358,R974,17.28,36.46,13.65,Cold Storage,Reserved,251.8,W008,L01330,henry.watson6287@gmail.com
-SRW0090359,R718,7.36,20.68,12.78,Cold Storage,Under Maintenance,117.87,W009,,
-SRW0090360,R135,47.01,30.99,8.28,Dry Storage,Occupied,69.03,W009,L02513,joshua.smith529@yahoo.com
-SRW0090361,R243,13.05,32.28,6.12,Hazardous Materials Storage,Reserved,470.33,W009,L00171,ian.gardner8666@gmail.com
-SRW0060362,R418,11.16,7.77,12.89,Hazardous Materials Storage,Reserved,376.37,W006,L01128,jeffrey.williams9174@gmail.com
-SRW0070363,R262,38.47,48.46,5.89,Cold Storage,Reserved,279.84,W007,L02592,phillip.hawkins8480@yahoo.com
-SRW0020364,R848,34.31,11.91,7.14,Dry Storage,Occupied,468.19,W002,L00146,blake.ramos1968@gmail.com
-SRW0050365,R371,16.75,45.7,13.07,Hazardous Materials Storage,Occupied,184.37,W005,L02395,jordan.reynolds5608@hotmail.com
-SRW0040366,R654,9.41,34.08,7.21,Cold Storage,Available,151.94,W004,,
-SRW0100367,R875,36.21,25.37,3.56,Bulk Storage,Available,358.38,W010,,
-SRW0100368,R755,46.23,49.4,5.33,Bulk Storage,Occupied,220.6,W010,L01075,elizabeth.williams2837@gmail.com
-SRW0040369,R755,20.52,25.1,11.98,Hazardous Materials Storage,Under Maintenance,353.94,W004,,
-SRW0040370,R332,42.72,37.4,4.73,Hazardous Materials Storage,Available,405.43,W004,,
-SRW0040371,R373,31.26,12.61,12.26,General Storage,Reserved,115.39,W004,L01805,frank.lara8031@yahoo.com
-SRW0030372,R746,28.85,40.91,4.86,General Storage,Occupied,278.32,W003,L00528,timothy.ellis4021@gmail.com
-SRW0010373,R826,9.86,24.63,9.62,Bulk Storage,Occupied,99.53,W001,L01069,annette.jensen850@hotmail.com
-SRW0070374,R948,42.73,26.14,14.01,Bulk Storage,Available,92.15,W007,,
-SRW0040375,R172,22.51,5.11,11.77,General Storage,Under Maintenance,208.04,W004,,
-SRW0080376,R266,38.68,34.5,3.6,Hazardous Materials Storage,Reserved,110.55,W008,L01102,katie.dunlap9445@yahoo.com
-SRW0100377,R233,34.08,9.09,4.09,General Storage,Under Maintenance,114.11,W010,,
-SRW0100378,R155,16.31,8.22,10.91,General Storage,Occupied,100.15,W010,L02426,donald.tucker2481@hotmail.com
-SRW0040379,R544,31.18,12.74,12.08,Dry Storage,Under Maintenance,238.25,W004,,
-SRW0080380,R531,36.01,8.57,13.71,General Storage,Reserved,231.26,W008,L00745,keith.brown2567@gmail.com
-SRW0080381,R753,22.62,5.86,9.22,Dry Storage,Available,172.85,W008,,
-SRW0060382,R407,35.46,36.97,12.31,Bulk Storage,Under Maintenance,335.73,W006,,
-SRW0030383,R954,43.05,39.91,8.16,Bulk Storage,Available,492.19,W003,,
-SRW0080384,R440,25.38,28.0,10.7,Cold Storage,Under Maintenance,228.53,W008,,
-SRW0030385,R458,35.46,13.24,10.71,Dry Storage,Under Maintenance,404.42,W003,,
-SRW0090386,R296,20.05,39.52,3.95,Dry Storage,Reserved,226.26,W009,L02073,victoria.wright2019@hotmail.com
-SRW0010387,R423,49.5,38.67,14.13,Dry Storage,Under Maintenance,371.9,W001,,
-SRW0070388,R888,10.14,46.47,10.42,Cold Storage,Reserved,299.97,W007,L01135,timothy.weaver5919@hotmail.com
-SRW0070389,R124,47.38,31.83,13.75,Cold Storage,Reserved,196.96,W007,L02800,mary.ryan6072@hotmail.com
-SRW0020390,R307,20.41,10.67,9.13,Bulk Storage,Reserved,113.79,W002,L01273,nicole.bowen8927@gmail.com
-SRW0100391,R789,11.69,33.74,8.31,Dry Storage,Under Maintenance,62.29,W010,,
-SRW0070392,R617,40.6,40.14,5.3,General Storage,Reserved,298.28,W007,L01312,laura.ayers4238@yahoo.com
-SRW0050393,R989,41.3,8.69,4.45,Hazardous Materials Storage,Available,423.18,W005,,
-SRW0030394,R541,11.48,13.4,8.97,Bulk Storage,Under Maintenance,332.4,W003,,
-SRW0040395,R560,13.09,46.76,12.02,Bulk Storage,Available,361.05,W004,,
-SRW0070396,R514,43.4,42.04,12.99,Cold Storage,Occupied,496.03,W007,L02010,jennifer.ramos2292@hotmail.com
-SRW0100397,R919,21.75,41.61,7.75,General Storage,Available,64.86,W010,,
-SRW0090398,R611,29.25,48.93,8.54,Hazardous Materials Storage,Under Maintenance,171.96,W009,,
-SRW0090399,R540,46.76,42.83,5.65,Cold Storage,Reserved,187.94,W009,L00839,adam.garcia2921@gmail.com
-SRW0030400,R658,34.55,15.1,7.09,Dry Storage,Under Maintenance,297.92,W003,,
-SRW0030401,R242,41.3,10.02,14.63,Cold Storage,Occupied,314.07,W003,L02007,jacob.henry359@yahoo.com
-SRW0090402,R105,28.35,30.78,13.58,Hazardous Materials Storage,Available,128.15,W009,,
-SRW0070403,R461,19.01,6.85,5.94,General Storage,Under Maintenance,401.92,W007,,
-SRW0060404,R221,41.79,42.0,8.09,General Storage,Under Maintenance,349.58,W006,,
-SRW0070405,R675,28.05,20.18,10.58,Bulk Storage,Under Maintenance,450.38,W007,,
-SRW0010406,R872,40.86,35.96,6.27,Hazardous Materials Storage,Available,486.37,W001,,
-SRW0050407,R864,18.41,48.85,5.43,Hazardous Materials Storage,Under Maintenance,228.47,W005,,
-SRW0040408,R456,46.31,20.98,8.31,Dry Storage,Under Maintenance,463.64,W004,,
-SRW0060409,R808,25.55,35.82,13.27,General Storage,Reserved,278.63,W006,L02766,amanda.jones1906@hotmail.com
-SRW0010410,R350,45.88,49.1,6.2,Dry Storage,Available,175.5,W001,,
-SRW0050411,R481,6.72,9.57,3.88,General Storage,Under Maintenance,239.05,W005,,
-SRW0030412,R211,38.49,27.15,5.32,Cold Storage,Reserved,268.99,W003,L02273,roger.johnson9961@hotmail.com
-SRW0050413,R750,31.86,31.36,8.29,Dry Storage,Available,125.3,W005,,
-SRW0050414,R266,46.43,38.02,13.63,Dry Storage,Under Maintenance,457.07,W005,,
-SRW0010415,R707,30.98,14.49,4.82,Bulk Storage,Under Maintenance,221.94,W001,,
-SRW0090416,R816,40.9,32.46,8.45,Bulk Storage,Reserved,108.72,W009,L02632,christian.brady4665@yahoo.com
-SRW0090417,R419,11.02,34.6,10.03,Cold Storage,Available,391.87,W009,,
-SRW0030418,R110,29.33,42.63,13.71,Cold Storage,Reserved,70.87,W003,L00164,sean.ingram1360@gmail.com
-SRW0090419,R274,49.87,30.36,12.99,Bulk Storage,Occupied,378.26,W009,L00995,cynthia.gray1913@gmail.com
-SRW0060420,R805,34.85,10.2,14.1,Cold Storage,Occupied,169.03,W006,L00309,robert.yates2043@gmail.com
-SRW0080421,R673,31.3,37.0,5.58,General Storage,Available,99.21,W008,,
-SRW0090422,R555,16.52,40.52,9.15,Cold Storage,Reserved,113.25,W009,L00520,debra.jenkins8142@hotmail.com
-SRW0090423,R220,46.37,18.59,9.6,General Storage,Under Maintenance,67.41,W009,,
-SRW0100424,R210,17.85,24.82,13.99,Hazardous Materials Storage,Under Maintenance,400.28,W010,,
-SRW0020425,R346,26.18,15.61,9.35,Dry Storage,Occupied,55.17,W002,L01062,victoria.davenport8404@gmail.com
-SRW0100426,R682,14.62,35.41,13.57,Bulk Storage,Reserved,330.56,W010,L02064,amanda.dunn2773@yahoo.com
-SRW0030427,R911,36.36,34.88,9.76,Dry Storage,Available,167.16,W003,,
-SRW0080428,R266,32.23,30.39,3.34,General Storage,Occupied,134.22,W008,L01300,jonathan.weber5631@yahoo.com
-SRW0080429,R882,36.56,10.4,4.84,Bulk Storage,Available,138.28,W008,,
-SRW0100430,R759,27.29,32.73,3.12,Cold Storage,Available,212.23,W010,,
-SRW0070431,R303,23.44,16.4,9.25,Bulk Storage,Reserved,270.87,W007,L02450,karen.turner6889@gmail.com
-SRW0040432,R841,42.15,14.44,8.17,Dry Storage,Occupied,400.93,W004,L00231,amanda.hensley6313@yahoo.com
-SRW0020433,R553,33.84,19.64,8.18,Dry Storage,Occupied,284.85,W002,L00300,eric.meadows165@gmail.com
-SRW0020434,R706,33.42,7.97,10.73,Cold Storage,Reserved,283.19,W002,L01821,zachary.irwin7161@gmail.com
-SRW0020435,R757,37.32,32.7,6.8,Hazardous Materials Storage,Under Maintenance,266.24,W002,,
-SRW0040436,R830,44.35,47.83,13.43,Hazardous Materials Storage,Under Maintenance,60.45,W004,,
-SRW0080437,R571,14.3,32.93,9.72,Hazardous Materials Storage,Available,396.27,W008,,
-SRW0030438,R984,10.75,13.11,7.41,Dry Storage,Occupied,203.76,W003,L01094,heather.petty6034@hotmail.com
-SRW0080439,R293,9.8,14.46,9.09,Cold Storage,Reserved,180.67,W008,L02753,william.little6953@hotmail.com
-SRW0030440,R834,19.15,29.05,4.58,Bulk Storage,Reserved,300.44,W003,L00847,dawn.jones7261@hotmail.com
-SRW0030441,R274,18.26,45.5,4.84,Dry Storage,Available,63.93,W003,,
-SRW0010442,R714,35.72,8.33,8.51,Hazardous Materials Storage,Available,485.92,W001,,
-SRW0030443,R377,49.12,17.44,9.66,Cold Storage,Occupied,247.53,W003,L01717,christopher.zhang9784@hotmail.com
-SRW0090444,R821,35.95,31.28,7.09,Dry Storage,Occupied,373.59,W009,L00509,brandy.williams1137@hotmail.com
-SRW0060445,R544,43.06,43.9,12.31,Bulk Storage,Reserved,461.6,W006,L02524,jasmine.hoover5683@yahoo.com
-SRW0070446,R336,42.79,12.77,12.82,Dry Storage,Reserved,490.93,W007,L01433,michelle.blair8758@hotmail.com
-SRW0030447,R205,17.22,49.99,7.86,Dry Storage,Under Maintenance,458.78,W003,,
-SRW0090448,R670,6.68,33.79,4.74,Cold Storage,Occupied,278.52,W009,L02304,eric.davis9159@yahoo.com
-SRW0100449,R589,36.42,15.13,11.69,General Storage,Available,165.23,W010,,
-SRW0080450,R372,26.38,43.08,7.5,Bulk Storage,Reserved,332.79,W008,L01305,christine.gonzalez630@hotmail.com
-SRW0050451,R557,30.0,7.86,8.32,General Storage,Available,262.44,W005,,
-SRW0020452,R929,31.82,27.77,13.42,Dry Storage,Available,73.68,W002,,
-SRW0080453,R697,35.56,26.36,5.09,General Storage,Occupied,388.13,W008,L01011,olivia.hernandez4032@gmail.com
-SRW0050454,R937,11.5,24.33,12.75,Hazardous Materials Storage,Occupied,375.91,W005,L00184,shawn.wilson4260@gmail.com
-SRW0080455,R500,23.63,41.21,10.97,Cold Storage,Reserved,338.5,W008,L01173,jennifer.hernandez8114@hotmail.com
-SRW0020456,R267,24.37,20.83,8.19,Dry Storage,Occupied,80.83,W002,L00303,wanda.wong5258@hotmail.com
-SRW0060457,R291,24.89,46.56,8.75,Bulk Storage,Reserved,345.35,W006,L00173,brenda.hancock9089@yahoo.com
-SRW0100458,R230,27.17,26.46,3.09,Hazardous Materials Storage,Available,141.95,W010,,
-SRW0090459,R357,41.51,20.34,13.79,Cold Storage,Reserved,297.08,W009,L01704,william.martinez895@hotmail.com
-SRW0100460,R739,10.89,47.85,12.71,Dry Storage,Reserved,373.08,W010,L02230,donald.mathews1927@gmail.com
-SRW0020461,R481,19.48,20.27,9.56,General Storage,Available,413.45,W002,,
-SRW0070462,R632,25.39,42.75,9.7,Hazardous Materials Storage,Available,424.84,W007,,
-SRW0090463,R248,31.62,8.39,9.65,General Storage,Available,357.12,W009,,
-SRW0060464,R369,49.54,7.18,9.23,Dry Storage,Occupied,468.72,W006,L02270,vickie.smith4882@hotmail.com
-SRW0080465,R916,28.89,32.32,4.44,Cold Storage,Reserved,433.22,W008,L01604,brandy.jacobs9541@yahoo.com
-SRW0050466,R860,46.7,44.62,10.47,General Storage,Occupied,159.66,W005,L01467,james.davenport7640@yahoo.com
-SRW0010467,R945,27.43,9.07,6.0,Cold Storage,Reserved,484.8,W001,L01603,alex.hartman351@yahoo.com
-SRW0090468,R953,29.07,48.67,12.55,Cold Storage,Under Maintenance,80.62,W009,,
-SRW0070469,R930,37.42,7.52,12.24,General Storage,Reserved,427.12,W007,L00156,jeffrey.johnson8144@yahoo.com
-SRW0010470,R142,18.73,33.0,13.93,General Storage,Available,64.88,W001,,
-SRW0090471,R535,17.68,28.87,3.69,Bulk Storage,Reserved,186.17,W009,L01275,vanessa.schultz9178@hotmail.com
-SRW0020472,R900,48.58,41.69,14.51,Dry Storage,Occupied,154.18,W002,L02570,vickie.smith4882@hotmail.com
-SRW0030473,R624,43.48,23.31,7.29,Dry Storage,Occupied,97.09,W003,L02191,monique.hall3482@yahoo.com
-SRW0020474,R807,17.63,17.98,10.35,Hazardous Materials Storage,Available,86.96,W002,,
-SRW0040475,R463,26.16,29.85,8.86,General Storage,Occupied,154.93,W004,L02262,kyle.jenkins5767@gmail.com
-SRW0020476,R347,14.05,38.37,3.81,Bulk Storage,Reserved,122.43,W002,L02471,michele.glover30@gmail.com
-SRW0060477,R840,31.63,49.16,14.23,Bulk Storage,Under Maintenance,309.04,W006,,
-SRW0100478,R225,28.57,36.05,3.66,Dry Storage,Available,119.68,W010,,
-SRW0010479,R733,44.31,9.84,7.59,Dry Storage,Available,382.67,W001,,
-SRW0090480,R154,19.06,47.7,4.45,Hazardous Materials Storage,Available,379.27,W009,,
-SRW0070481,R700,5.32,5.94,12.84,Dry Storage,Reserved,327.52,W007,L00861,stanley.anderson1408@gmail.com
-SRW0090482,R805,28.55,32.47,10.6,Dry Storage,Occupied,214.15,W009,L01478,nicholas.barton9355@hotmail.com
-SRW0050483,R698,13.0,39.59,4.16,Cold Storage,Under Maintenance,147.95,W005,,
-SRW0060484,R107,11.05,39.82,8.18,Cold Storage,Occupied,230.35,W006,L01465,colleen.porter1249@gmail.com
-SRW0070485,R315,5.97,27.02,3.3,Dry Storage,Reserved,358.31,W007,L02298,ashley.simpson3046@gmail.com
-SRW0010486,R132,27.13,31.2,4.66,General Storage,Reserved,417.44,W001,L01813,daniel.velasquez502@yahoo.com
-SRW0050487,R413,48.62,22.53,5.49,Dry Storage,Occupied,98.79,W005,L01515,caitlin.collins4377@hotmail.com
-SRW0030488,R494,9.62,38.55,13.85,Bulk Storage,Available,298.04,W003,,
-SRW0080489,R518,27.98,43.59,5.46,Cold Storage,Occupied,68.56,W008,L00057,frank.smith2207@gmail.com
-SRW0090490,R152,38.15,16.47,10.32,General Storage,Under Maintenance,229.18,W009,,
-SRW0040491,R320,45.09,45.35,11.02,General Storage,Occupied,470.33,W004,L00780,gerald.williams2426@yahoo.com
-SRW0060492,R607,48.01,21.56,4.24,Bulk Storage,Reserved,143.03,W006,L02189,scott.conway5603@gmail.com
-SRW0100493,R318,34.88,9.12,11.68,Hazardous Materials Storage,Reserved,449.62,W010,L02003,renee.lawrence3030@gmail.com
-SRW0040494,R250,22.69,16.15,7.21,Hazardous Materials Storage,Available,249.72,W004,,
-SRW0080495,R336,31.45,5.45,7.55,Hazardous Materials Storage,Occupied,177.24,W008,L02704,christina.chang7120@yahoo.com
-SRW0090496,R782,48.59,46.09,11.44,Cold Storage,Occupied,98.43,W009,L02483,paul.powers1774@hotmail.com
-SRW0100497,R639,8.44,46.29,11.31,General Storage,Reserved,234.68,W010,L01880,david.ryan6847@gmail.com
-SRW0070498,R199,42.65,5.88,11.12,Dry Storage,Reserved,295.34,W007,L00519,hannah.schmidt4362@gmail.com
-SRW0010499,R537,31.63,49.04,5.0,Hazardous Materials Storage,Under Maintenance,448.18,W001,,
-SRW0040500,R434,6.68,45.7,6.37,Cold Storage,Available,168.96,W004,,
+SRW0050001,R721,33.86,49.56,14.49,Bulk Storage,Available,155.21,W005,NULL,NULL
+SRW0070002,R395,24.52,44.92,5.53,Bulk Storage,Reserved,229.98,W007,L00070,russell.holloway2139@yahoo.com
+SRW0060003,R373,16.78,26.16,4.77,Hazardous Materials Storage,Reserved,473.5,W006,L01183,patrick.bennett2741@hotmail.com
+SRW0020004,R883,23.38,16.67,11.28,General Storage,Reserved,477.68,W002,L01249,morgan.williams3888@hotmail.com
+SRW0080005,R211,22.38,23.1,7.13,Bulk Storage,Reserved,203.65,W008,L02632,william.swanson8044@yahoo.com
+SRW0010006,R883,29.81,40.18,5.22,Dry Storage,Occupied,401.57,W001,L01234,shelia.davis1408@yahoo.com
+SRW0040007,R901,8.79,16.25,14.03,Hazardous Materials Storage,Reserved,322.35,W004,L02191,regina.everett8720@hotmail.com
+SRW0100008,R671,29.25,30.41,9.97,Dry Storage,Occupied,242.9,W010,L02368,david.sanchez4081@hotmail.com
+SRW0010009,R149,5.5,34.17,7.26,Cold Storage,Under Maintenance,278.14,W001,NULL,NULL
+SRW0030010,R326,33.06,11.74,7.9,Dry Storage,Available,209.62,W003,NULL,NULL
+SRW0010011,R251,31.9,31.87,8.35,Hazardous Materials Storage,Available,312.89,W001,NULL,NULL
+SRW0010012,R392,32.28,11.62,9.63,Bulk Storage,Occupied,175.8,W001,L00183,eric.marquez9852@yahoo.com
+SRW0060013,R506,42.74,47.99,13.17,Cold Storage,Available,466.09,W006,NULL,NULL
+SRW0040014,R831,12.89,17.16,14.27,Cold Storage,Under Maintenance,95.18,W004,NULL,NULL
+SRW0030015,R704,8.25,12.95,13.18,General Storage,Available,138.33,W003,NULL,NULL
+SRW0070016,R644,43.12,35.97,12.82,Hazardous Materials Storage,Reserved,464.68,W007,L00761,yvonne.jackson1444@gmail.com
+SRW0100017,R199,18.02,47.48,13.42,Hazardous Materials Storage,Occupied,138.22,W010,L00978,jessica.galloway6847@gmail.com
+SRW0080018,R466,20.79,14.31,4.82,Dry Storage,Available,388.58,W008,NULL,NULL
+SRW0050019,R658,11.05,7.26,7.6,Dry Storage,Available,273.86,W005,NULL,NULL
+SRW0080020,R508,28.15,9.11,13.85,Dry Storage,Occupied,396.19,W008,L02052,blake.ramos1968@gmail.com
+SRW0090021,R498,42.04,13.03,11.73,Bulk Storage,Reserved,417.61,W009,L00077,john.rodriguez5273@hotmail.com
+SRW0070022,R924,15.48,21.74,11.36,Hazardous Materials Storage,Available,194.19,W007,NULL,NULL
+SRW0100023,R458,9.49,10.24,9.58,Dry Storage,Available,294.27,W010,NULL,NULL
+SRW0040024,R252,32.08,9.88,10.46,Cold Storage,Reserved,412.98,W004,L01665,amanda.williamson8943@yahoo.com
+SRW0040025,R432,33.7,46.69,9.02,Hazardous Materials Storage,Available,141.53,W004,NULL,NULL
+SRW0020026,R233,6.71,9.93,7.39,Bulk Storage,Occupied,162.45,W002,L01904,erika.tran1402@yahoo.com
+SRW0080027,R121,27.05,22.59,6.09,Hazardous Materials Storage,Available,150.96,W008,NULL,NULL
+SRW0020028,R108,15.39,5.39,8.44,Bulk Storage,Occupied,330.28,W002,L01862,matthew.jimenez3912@hotmail.com
+SRW0080029,R771,16.63,35.54,11.08,General Storage,Under Maintenance,491.34,W008,NULL,NULL
+SRW0040030,R351,40.81,29.22,13.59,Hazardous Materials Storage,Occupied,124.05,W004,L00516,summer.saunders3051@yahoo.com
+SRW0080031,R930,34.63,5.7,12.49,Dry Storage,Reserved,285.16,W008,L02995,sarah.grant1480@gmail.com
+SRW0040032,R152,41.35,9.33,3.43,General Storage,Reserved,489.31,W004,L02700,amber.fernandez9502@gmail.com
+SRW0050033,R707,23.7,17.73,11.84,Hazardous Materials Storage,Available,489.51,W005,NULL,NULL
+SRW0100034,R923,8.25,49.92,8.57,Dry Storage,Occupied,63.48,W010,L02099,pamela.cuevas9992@yahoo.com
+SRW0020035,R385,38.82,40.06,9.85,Hazardous Materials Storage,Available,319.26,W002,NULL,NULL
+SRW0060036,R821,11.22,47.45,6.33,Cold Storage,Available,456.15,W006,NULL,NULL
+SRW0050037,R769,29.91,31.97,13.59,Dry Storage,Reserved,432.99,W005,L02609,chelsea.crawford1737@hotmail.com
+SRW0090038,R568,32.63,18.27,3.94,Hazardous Materials Storage,Reserved,306.25,W009,L00653,julie.valdez9080@gmail.com
+SRW0070039,R170,13.58,19.32,4.21,Hazardous Materials Storage,Reserved,453.62,W007,L01380,michele.livingston6562@yahoo.com
+SRW0100040,R126,22.18,23.35,12.28,General Storage,Available,193.99,W010,NULL,NULL
+SRW0100041,R855,14.74,13.2,14.0,Dry Storage,Occupied,261.69,W010,L01389,brett.church5248@gmail.com
+SRW0080042,R735,5.9,8.83,4.18,Hazardous Materials Storage,Under Maintenance,271.55,W008,NULL,NULL
+SRW0010043,R611,17.2,31.23,5.03,Dry Storage,Under Maintenance,319.43,W001,NULL,NULL
+SRW0100044,R551,23.5,22.35,7.87,Hazardous Materials Storage,Under Maintenance,54.89,W010,NULL,NULL
+SRW0100045,R960,37.33,23.28,13.97,General Storage,Available,425.28,W010,NULL,NULL
+SRW0010046,R117,36.46,45.79,12.09,Dry Storage,Occupied,433.71,W001,L00158,laura.powell8059@hotmail.com
+SRW0050047,R334,38.04,22.61,12.88,Hazardous Materials Storage,Available,110.54,W005,NULL,NULL
+SRW0070048,R477,31.51,39.12,11.92,Hazardous Materials Storage,Under Maintenance,336.18,W007,NULL,NULL
+SRW0030049,R978,13.44,12.82,5.05,Dry Storage,Occupied,224.77,W003,L00057,matthew.jimenez3912@hotmail.com
+SRW0100050,R548,47.12,48.37,4.72,Cold Storage,Under Maintenance,209.09,W010,NULL,NULL
+SRW0010051,R403,42.94,8.55,8.45,Hazardous Materials Storage,Available,371.22,W001,NULL,NULL
+SRW0020052,R445,25.06,25.12,9.96,Dry Storage,Reserved,333.8,W002,L02765,cynthia.morris9978@hotmail.com
+SRW0030053,R838,44.11,45.08,14.69,Dry Storage,Reserved,488.28,W003,L01374,shelley.wilson6201@hotmail.com
+SRW0100054,R788,19.08,35.81,3.95,General Storage,Occupied,208.36,W010,L01513,christopher.hill1498@gmail.com
+SRW0060055,R132,48.28,22.69,8.31,Dry Storage,Available,162.89,W006,NULL,NULL
+SRW0060056,R701,14.78,6.09,11.64,Dry Storage,Reserved,161.01,W006,L01534,jennifer.dean6628@hotmail.com
+SRW0040057,R413,27.49,24.76,4.04,General Storage,Occupied,165.62,W004,L00914,debbie.richardson167@hotmail.com
+SRW0020058,R626,47.04,37.99,12.93,Bulk Storage,Occupied,58.75,W002,L01816,blake.wilcox4768@gmail.com
+SRW0080059,R334,36.8,34.45,3.09,Dry Storage,Available,367.23,W008,NULL,NULL
+SRW0020060,R661,21.59,14.73,8.32,General Storage,Reserved,365.41,W002,L00243,kimberly.hansen3955@yahoo.com
+SRW0030061,R697,5.09,27.2,12.46,General Storage,Under Maintenance,204.92,W003,NULL,NULL
+SRW0050062,R764,48.59,28.98,10.54,Bulk Storage,Under Maintenance,306.7,W005,NULL,NULL
+SRW0040063,R938,21.56,48.0,12.47,Cold Storage,Under Maintenance,363.15,W004,NULL,NULL
+SRW0100064,R635,39.61,41.41,9.92,Hazardous Materials Storage,Reserved,235.19,W010,L02649,shawna.hill8459@gmail.com
+SRW0070065,R719,46.62,45.34,8.24,General Storage,Under Maintenance,52.71,W007,NULL,NULL
+SRW0080066,R568,21.32,6.4,10.62,Bulk Storage,Available,276.01,W008,NULL,NULL
+SRW0080067,R159,6.21,45.33,4.89,Cold Storage,Occupied,214.0,W008,L01870,billy.harrington1521@yahoo.com
+SRW0090068,R470,42.42,11.11,10.83,Dry Storage,Occupied,484.2,W009,L02595,ariel.johnson7507@yahoo.com
+SRW0040069,R555,28.04,49.99,6.56,General Storage,Reserved,475.24,W004,L01746,matthew.holmes9448@yahoo.com
+SRW0070070,R576,21.7,34.41,13.73,General Storage,Under Maintenance,495.71,W007,NULL,NULL
+SRW0090071,R292,5.99,34.79,7.26,Hazardous Materials Storage,Available,53.5,W009,NULL,NULL
+SRW0080072,R492,15.45,26.21,12.51,Dry Storage,Available,332.0,W008,NULL,NULL
+SRW0030073,R535,30.95,35.2,3.03,Cold Storage,Reserved,343.13,W003,L02173,tommy.james233@gmail.com
+SRW0020074,R413,32.99,34.89,6.42,Hazardous Materials Storage,Available,477.85,W002,NULL,NULL
+SRW0090075,R611,14.41,36.06,8.44,Hazardous Materials Storage,Reserved,165.24,W009,L02875,kimberly.bowman9859@gmail.com
+SRW0010076,R201,17.25,17.39,12.98,Hazardous Materials Storage,Available,160.37,W001,NULL,NULL
+SRW0100077,R732,48.78,32.39,13.67,General Storage,Under Maintenance,61.9,W010,NULL,NULL
+SRW0070078,R246,10.44,26.87,6.92,Bulk Storage,Occupied,352.89,W007,L01838,christopher.franco3745@gmail.com
+SRW0040079,R888,46.34,48.06,10.47,Bulk Storage,Occupied,67.71,W004,L01785,cody.gonzalez3523@hotmail.com
+SRW0060080,R573,39.96,49.97,8.49,Dry Storage,Available,234.75,W006,NULL,NULL
+SRW0050081,R315,42.85,19.09,5.8,Dry Storage,Reserved,468.52,W005,L01528,christopher.franco3745@gmail.com
+SRW0100082,R220,41.59,6.79,5.26,General Storage,Under Maintenance,283.17,W010,NULL,NULL
+SRW0040083,R834,47.55,30.32,4.1,Hazardous Materials Storage,Occupied,401.1,W004,L00898,anthony.graham9580@hotmail.com
+SRW0100084,R174,14.21,39.68,12.49,Hazardous Materials Storage,Under Maintenance,418.09,W010,NULL,NULL
+SRW0050085,R480,29.73,31.08,8.22,Hazardous Materials Storage,Occupied,429.82,W005,L01298,angelica.morgan2425@yahoo.com
+SRW0030086,R870,48.42,6.63,7.71,Hazardous Materials Storage,Available,367.79,W003,NULL,NULL
+SRW0030087,R685,46.85,26.03,5.8,Hazardous Materials Storage,Reserved,391.35,W003,L01307,diana.wright9378@gmail.com
+SRW0090088,R581,6.77,16.78,3.49,General Storage,Occupied,241.55,W009,L01585,michael.walker2043@hotmail.com
+SRW0090089,R986,25.65,42.4,8.71,General Storage,Reserved,391.41,W009,L00070,russell.holloway2139@yahoo.com
+SRW0020090,R507,23.87,20.13,12.77,Hazardous Materials Storage,Reserved,258.48,W002,L00421,mary.ortiz3064@gmail.com
+SRW0030091,R253,23.84,47.0,13.71,Dry Storage,Occupied,213.12,W003,L01802,shelley.nichols4176@hotmail.com
+SRW0080092,R942,28.96,45.82,4.99,Cold Storage,Reserved,258.31,W008,L00140,tiffany.arellano8349@hotmail.com
+SRW0100093,R439,26.92,15.19,3.23,Bulk Storage,Under Maintenance,458.32,W010,NULL,NULL
+SRW0060094,R508,36.64,44.24,5.33,Bulk Storage,Reserved,243.23,W006,L02053,robert.ortiz727@gmail.com
+SRW0020095,R783,40.04,34.05,9.29,Bulk Storage,Occupied,396.2,W002,L01228,rachel.martin7026@gmail.com
+SRW0010096,R736,26.99,28.77,11.24,Dry Storage,Reserved,335.49,W001,L02761,roger.johnson9961@hotmail.com
+SRW0080097,R253,21.86,19.23,9.29,Hazardous Materials Storage,Reserved,295.36,W008,L00532,jessica.nelson2350@gmail.com
+SRW0030098,R330,15.12,48.23,9.83,Cold Storage,Available,162.55,W003,NULL,NULL
+SRW0030099,R278,45.52,21.15,12.33,Dry Storage,Reserved,327.76,W003,L02626,dawn.castaneda902@hotmail.com
+SRW0070100,R851,17.37,6.59,6.03,Dry Storage,Under Maintenance,147.49,W007,NULL,NULL
+SRW0060101,R185,14.53,23.22,3.4,Bulk Storage,Reserved,260.27,W006,L01198,kayla.smith2085@gmail.com
+SRW0040102,R876,42.22,49.04,5.2,General Storage,Occupied,464.24,W004,L00478,anthony.klein7434@yahoo.com
+SRW0060103,R787,46.53,30.84,5.15,General Storage,Under Maintenance,457.37,W006,NULL,NULL
+SRW0020104,R492,9.36,15.06,7.14,General Storage,Occupied,104.63,W002,L00543,jesse.macias5312@yahoo.com
+SRW0060105,R898,36.39,7.7,11.56,Cold Storage,Available,89.78,W006,NULL,NULL
+SRW0040106,R512,43.22,42.4,10.43,Cold Storage,Under Maintenance,184.37,W004,NULL,NULL
+SRW0100107,R896,10.32,15.08,7.07,Bulk Storage,Under Maintenance,358.06,W010,NULL,NULL
+SRW0050108,R293,22.3,45.22,5.99,Bulk Storage,Occupied,435.25,W005,L01103,denise.harmon5586@gmail.com
+SRW0080109,R142,19.21,17.54,8.25,Dry Storage,Available,374.9,W008,NULL,NULL
+SRW0070110,R191,5.39,47.25,14.82,Hazardous Materials Storage,Under Maintenance,152.0,W007,NULL,NULL
+SRW0030111,R141,9.29,8.43,3.76,General Storage,Occupied,289.04,W003,L00509,alexander.perry5986@gmail.com
+SRW0070112,R113,8.96,49.83,5.41,General Storage,Reserved,103.14,W007,L02288,katherine.stevens2300@hotmail.com
+SRW0050113,R830,38.02,32.11,8.52,Dry Storage,Available,346.39,W005,NULL,NULL
+SRW0100114,R155,17.62,34.72,11.33,Bulk Storage,Available,239.75,W010,NULL,NULL
+SRW0080115,R485,24.35,24.92,11.22,General Storage,Reserved,398.05,W008,L02922,megan.griffin9214@hotmail.com
+SRW0040116,R151,15.18,13.59,7.92,Cold Storage,Reserved,246.49,W004,L01361,megan.cook2303@yahoo.com
+SRW0080117,R482,23.48,44.34,5.67,Bulk Storage,Occupied,381.22,W008,L01052,phyllis.williams8189@gmail.com
+SRW0060118,R282,5.39,6.99,3.23,Cold Storage,Occupied,397.26,W006,L02519,alexis.taylor7123@hotmail.com
+SRW0100119,R878,11.32,11.17,3.38,Hazardous Materials Storage,Reserved,65.21,W010,L00804,kayla.smith2085@gmail.com
+SRW0060120,R661,42.42,27.81,5.69,Hazardous Materials Storage,Reserved,55.17,W006,L02128,jason.schwartz8431@gmail.com
+SRW0090121,R839,39.13,36.57,6.76,Hazardous Materials Storage,Reserved,163.45,W009,L02234,melissa.moss9561@gmail.com
+SRW0090122,R833,21.04,7.24,5.18,Dry Storage,Available,105.68,W009,NULL,NULL
+SRW0060123,R178,28.55,13.12,9.38,Hazardous Materials Storage,Available,410.43,W006,NULL,NULL
+SRW0010124,R516,10.84,44.9,12.35,Cold Storage,Occupied,118.63,W001,L02963,russell.white3014@hotmail.com
+SRW0050125,R326,39.09,32.86,6.61,Bulk Storage,Occupied,124.27,W005,L00117,chad.andrews8872@hotmail.com
+SRW0090126,R623,35.27,22.8,5.47,Dry Storage,Available,157.93,W009,NULL,NULL
+SRW0050127,R308,20.14,21.6,12.69,Dry Storage,Available,359.07,W005,NULL,NULL
+SRW0070128,R214,40.7,23.91,8.9,Dry Storage,Under Maintenance,75.94,W007,NULL,NULL
+SRW0020129,R698,48.31,26.57,5.83,Hazardous Materials Storage,Reserved,414.98,W002,L02623,stephanie.peterson7456@hotmail.com
+SRW0040130,R911,6.16,29.06,9.99,Dry Storage,Reserved,243.41,W004,L02008,dean.gordon7802@yahoo.com
+SRW0090131,R561,22.36,17.72,11.84,Cold Storage,Reserved,253.18,W009,L00719,jack.johnson4643@yahoo.com
+SRW0070132,R446,30.19,13.96,13.01,Bulk Storage,Occupied,342.99,W007,L02238,karen.cantrell6031@gmail.com
+SRW0050133,R852,22.07,32.92,13.32,Hazardous Materials Storage,Reserved,384.63,W005,L02205,susan.osborn6653@hotmail.com
+SRW0090134,R566,17.96,18.86,6.91,Bulk Storage,Occupied,231.94,W009,L01004,tammy.armstrong8635@yahoo.com
+SRW0010135,R509,34.2,39.06,5.55,Dry Storage,Under Maintenance,384.56,W001,NULL,NULL
+SRW0030136,R541,26.55,46.52,13.81,General Storage,Occupied,488.15,W003,L00755,wayne.jones2611@gmail.com
+SRW0100137,R575,31.43,35.47,11.1,Cold Storage,Occupied,328.2,W010,L01557,nicole.rice7888@yahoo.com
+SRW0050138,R599,23.03,37.32,13.68,Cold Storage,Under Maintenance,201.64,W005,NULL,NULL
+SRW0070139,R677,47.69,5.0,5.43,Hazardous Materials Storage,Under Maintenance,399.8,W007,NULL,NULL
+SRW0100140,R910,22.49,14.0,5.83,Hazardous Materials Storage,Reserved,414.28,W010,L02095,gregory.sweeney2255@yahoo.com
+SRW0080141,R264,6.86,37.29,10.4,Cold Storage,Occupied,223.35,W008,L02582,julia.hensley8030@gmail.com
+SRW0060142,R230,41.3,30.31,6.12,Dry Storage,Available,282.19,W006,NULL,NULL
+SRW0050143,R635,43.88,40.54,3.41,Bulk Storage,Reserved,414.04,W005,L02857,elizabeth.cortez3563@hotmail.com
+SRW0100144,R692,42.82,21.39,9.8,General Storage,Under Maintenance,450.84,W010,NULL,NULL
+SRW0060145,R875,21.58,47.72,9.47,Bulk Storage,Reserved,445.84,W006,L00082,shawn.patterson1254@hotmail.com
+SRW0060146,R652,38.17,10.98,7.35,Cold Storage,Available,343.89,W006,NULL,NULL
+SRW0050147,R849,14.44,24.75,9.42,Cold Storage,Reserved,355.22,W005,L02710,roy.monroe2242@yahoo.com
+SRW0080148,R677,24.1,34.79,10.59,Cold Storage,Occupied,471.34,W008,L02948,bryan.wright9367@gmail.com
+SRW0040149,R892,18.98,37.96,13.83,Hazardous Materials Storage,Occupied,209.79,W004,L00060,sarah.mann5140@yahoo.com
+SRW0020150,R909,40.87,9.6,3.69,Dry Storage,Occupied,230.44,W002,L01898,meghan.sawyer8203@gmail.com
+SRW0010151,R306,5.66,26.61,3.6,Cold Storage,Occupied,380.8,W001,L01227,christine.moyer2157@yahoo.com
+SRW0090152,R368,6.79,26.62,14.75,Bulk Storage,Under Maintenance,251.31,W009,NULL,NULL
+SRW0090153,R971,5.27,31.16,6.59,Dry Storage,Reserved,242.56,W009,L02776,melissa.crane3947@yahoo.com
+SRW0070154,R896,17.16,44.95,3.46,Dry Storage,Under Maintenance,281.79,W007,NULL,NULL
+SRW0090155,R609,37.85,47.93,11.93,Bulk Storage,Reserved,129.5,W009,L01547,dustin.avery9512@gmail.com
+SRW0070156,R819,43.09,23.95,7.15,Cold Storage,Reserved,309.86,W007,L00811,dana.moore6713@gmail.com
+SRW0020157,R394,26.69,43.3,10.36,Bulk Storage,Occupied,397.46,W002,L01831,julie.townsend1762@hotmail.com
+SRW0010158,R861,11.28,35.64,13.8,General Storage,Under Maintenance,127.27,W001,NULL,NULL
+SRW0060159,R897,9.02,28.0,9.92,Cold Storage,Available,491.81,W006,NULL,NULL
+SRW0090160,R282,39.64,7.76,13.4,General Storage,Occupied,436.64,W009,L02266,austin.owens1158@gmail.com
+SRW0040161,R196,48.56,35.03,11.15,Dry Storage,Available,397.23,W004,NULL,NULL
+SRW0070162,R151,17.97,24.83,8.92,Cold Storage,Under Maintenance,402.27,W007,NULL,NULL
+SRW0030163,R825,46.96,39.39,7.16,Hazardous Materials Storage,Occupied,201.09,W003,L01170,valerie.harris6589@hotmail.com
+SRW0070164,R968,40.46,41.08,11.85,Dry Storage,Occupied,263.25,W007,L01485,carl.bryant4912@gmail.com
+SRW0070165,R971,9.16,47.7,9.67,Dry Storage,Reserved,211.84,W007,L02594,michael.kent24@gmail.com
+SRW0010166,R351,33.18,35.56,14.03,Bulk Storage,Reserved,400.77,W001,L01936,william.monroe3605@hotmail.com
+SRW0080167,R158,11.0,6.43,12.37,Bulk Storage,Available,259.88,W008,NULL,NULL
+SRW0070168,R427,24.19,25.88,3.79,Cold Storage,Reserved,245.15,W007,L01544,lisa.charles324@hotmail.com
+SRW0080169,R688,29.77,25.87,13.86,Cold Storage,Reserved,74.59,W008,L02015,kevin.james6124@hotmail.com
+SRW0010170,R242,34.69,11.15,5.85,Dry Storage,Available,65.32,W001,NULL,NULL
+SRW0070171,R863,10.19,41.64,8.29,Dry Storage,Under Maintenance,443.35,W007,NULL,NULL
+SRW0060172,R476,32.39,7.95,12.18,General Storage,Available,228.35,W006,NULL,NULL
+SRW0100173,R896,9.58,23.39,7.3,Cold Storage,Under Maintenance,476.67,W010,NULL,NULL
+SRW0080174,R243,49.53,23.53,14.9,Cold Storage,Occupied,172.28,W008,L02469,marc.johnson5882@hotmail.com
+SRW0060175,R530,15.16,9.73,9.3,Dry Storage,Occupied,439.26,W006,L00600,wanda.wong5258@hotmail.com
+SRW0060176,R860,40.67,20.91,8.2,Dry Storage,Reserved,93.33,W006,L02161,dylan.simmons7499@gmail.com
+SRW0100177,R799,13.77,32.87,13.44,Hazardous Materials Storage,Reserved,318.86,W010,L01266,jeremy.krause8549@hotmail.com
+SRW0100178,R418,22.72,49.19,4.27,Cold Storage,Available,385.75,W010,NULL,NULL
+SRW0070179,R539,23.6,22.75,8.52,General Storage,Occupied,149.2,W007,L00278,connor.ramsey4250@yahoo.com
+SRW0030180,R855,15.15,36.65,6.49,Cold Storage,Reserved,457.7,W003,L00632,christopher.zimmerman9402@yahoo.com
+SRW0020181,R309,21.34,37.08,8.59,General Storage,Reserved,100.79,W002,L01497,sherry.little7401@yahoo.com
+SRW0070182,R180,14.43,21.14,12.59,Dry Storage,Reserved,264.92,W007,L02621,brianna.johnson1602@hotmail.com
+SRW0020183,R613,29.65,16.35,6.53,Cold Storage,Reserved,337.88,W002,L01770,angela.hunter9327@yahoo.com
+SRW0100184,R144,6.2,26.47,14.79,Hazardous Materials Storage,Occupied,157.62,W010,L00336,douglas.hanson4478@yahoo.com
+SRW0070185,R299,12.94,38.64,14.64,General Storage,Reserved,401.1,W007,L01961,ronald.johnson2557@hotmail.com
+SRW0090186,R267,44.39,10.55,11.49,Bulk Storage,Reserved,190.19,W009,L01822,jill.copeland54@yahoo.com
+SRW0080187,R957,27.11,21.44,9.44,General Storage,Available,229.82,W008,NULL,NULL
+SRW0050188,R633,42.22,38.81,14.47,Bulk Storage,Occupied,418.89,W005,L00401,caroline.bradley680@gmail.com
+SRW0020189,R700,48.0,38.51,11.27,Dry Storage,Under Maintenance,436.04,W002,NULL,NULL
+SRW0040190,R734,31.87,49.4,13.27,Dry Storage,Under Maintenance,75.84,W004,NULL,NULL
+SRW0050191,R722,39.47,6.53,10.16,Hazardous Materials Storage,Occupied,311.02,W005,L02626,dawn.castaneda902@hotmail.com
+SRW0010192,R955,19.08,42.86,3.3,Bulk Storage,Under Maintenance,402.59,W001,NULL,NULL
+SRW0100193,R421,13.47,25.32,5.73,Dry Storage,Occupied,73.15,W010,L00986,melissa.gordon1659@hotmail.com
+SRW0020194,R436,41.09,39.76,11.76,Bulk Storage,Available,68.67,W002,NULL,NULL
+SRW0030195,R710,44.02,9.03,14.58,General Storage,Reserved,358.99,W003,L01265,stephanie.collins6011@yahoo.com
+SRW0040196,R504,43.47,29.32,7.59,Bulk Storage,Under Maintenance,318.59,W004,NULL,NULL
+SRW0070197,R615,16.75,17.6,5.32,Cold Storage,Available,452.31,W007,NULL,NULL
+SRW0030198,R402,7.98,25.33,4.67,Bulk Storage,Reserved,199.84,W003,L02193,john.taylor5153@yahoo.com
+SRW0100199,R380,46.95,48.48,14.45,General Storage,Available,56.02,W010,NULL,NULL
+SRW0080200,R694,23.88,37.59,9.56,Bulk Storage,Reserved,127.65,W008,L00893,wayne.craig8448@yahoo.com
+SRW0080201,R322,9.53,29.69,10.18,Hazardous Materials Storage,Occupied,51.06,W008,L01833,suzanne.ramirez786@hotmail.com
+SRW0070202,R540,35.19,27.58,10.06,Hazardous Materials Storage,Under Maintenance,82.69,W007,NULL,NULL
+SRW0010203,R252,22.17,7.03,10.34,General Storage,Under Maintenance,396.62,W001,NULL,NULL
+SRW0080204,R949,8.67,7.84,11.45,Cold Storage,Reserved,431.45,W008,L01978,joseph.wagner9277@hotmail.com
+SRW0030205,R813,37.86,25.02,5.52,Hazardous Materials Storage,Under Maintenance,183.34,W003,NULL,NULL
+SRW0020206,R547,43.75,27.39,7.48,Bulk Storage,Available,71.02,W002,NULL,NULL
+SRW0080207,R392,39.51,15.98,7.08,Cold Storage,Available,219.57,W008,NULL,NULL
+SRW0030208,R991,13.03,49.35,9.38,General Storage,Occupied,472.11,W003,L01889,jeremy.grant3818@yahoo.com
+SRW0020209,R978,6.83,26.44,8.29,General Storage,Available,135.68,W002,NULL,NULL
+SRW0060210,R278,33.27,37.91,6.58,Bulk Storage,Under Maintenance,489.63,W006,NULL,NULL
+SRW0010211,R251,40.34,30.38,6.53,Bulk Storage,Occupied,66.57,W001,L00271,jason.doyle7949@hotmail.com
+SRW0040212,R591,49.4,32.45,13.91,General Storage,Occupied,114.3,W004,L02280,edward.anderson5479@hotmail.com
+SRW0060213,R666,13.61,6.66,6.14,Hazardous Materials Storage,Reserved,459.26,W006,L00653,julie.valdez9080@gmail.com
+SRW0090214,R469,13.81,48.62,8.37,Bulk Storage,Reserved,136.81,W009,L01163,misty.jones1329@yahoo.com
+SRW0040215,R513,22.62,41.07,7.75,General Storage,Under Maintenance,278.04,W004,NULL,NULL
+SRW0070216,R320,20.61,48.54,8.25,Bulk Storage,Occupied,358.48,W007,L02961,christopher.franco3745@gmail.com
+SRW0060217,R726,38.53,11.61,3.02,General Storage,Available,95.24,W006,NULL,NULL
+SRW0020218,R348,22.88,17.07,10.54,General Storage,Under Maintenance,481.66,W002,NULL,NULL
+SRW0020219,R516,14.44,20.25,12.66,General Storage,Under Maintenance,193.71,W002,NULL,NULL
+SRW0060220,R107,13.86,14.06,8.97,Bulk Storage,Available,483.67,W006,NULL,NULL
+SRW0100221,R135,43.26,18.67,7.95,Hazardous Materials Storage,Occupied,203.39,W010,L02696,amanda.cole8244@hotmail.com
+SRW0050222,R894,22.91,8.0,10.62,Cold Storage,Under Maintenance,376.1,W005,NULL,NULL
+SRW0030223,R880,19.16,8.77,11.94,Dry Storage,Under Maintenance,241.39,W003,NULL,NULL
+SRW0090224,R811,42.14,7.36,4.08,Bulk Storage,Under Maintenance,329.27,W009,NULL,NULL
+SRW0050225,R538,46.03,16.15,5.0,General Storage,Available,207.16,W005,NULL,NULL
+SRW0040226,R179,17.58,23.86,13.44,Dry Storage,Under Maintenance,482.82,W004,NULL,NULL
+SRW0020227,R376,19.43,47.73,5.44,General Storage,Reserved,407.29,W002,L00021,anthony.garcia4516@yahoo.com
+SRW0060228,R943,26.58,38.86,11.0,Bulk Storage,Occupied,280.25,W006,L01496,stephanie.collins6011@yahoo.com
+SRW0030229,R308,40.47,41.8,9.2,Cold Storage,Under Maintenance,412.26,W003,NULL,NULL
+SRW0010230,R192,35.27,9.74,12.09,Dry Storage,Reserved,366.54,W001,L01780,jose.hunt1574@yahoo.com
+SRW0100231,R990,39.41,25.08,3.43,General Storage,Occupied,209.56,W010,L02480,julie.townsend1762@hotmail.com
+SRW0080232,R170,21.16,20.14,11.63,Bulk Storage,Occupied,375.89,W008,L02208,christian.fisher9026@yahoo.com
+SRW0010233,R913,22.22,27.84,12.79,Dry Storage,Under Maintenance,185.13,W001,NULL,NULL
+SRW0040234,R766,46.19,26.12,11.56,Dry Storage,Reserved,473.94,W004,L01547,dustin.avery9512@gmail.com
+SRW0060235,R746,42.28,36.55,5.33,Dry Storage,Available,173.93,W006,NULL,NULL
+SRW0100236,R190,39.65,39.04,14.57,Cold Storage,Occupied,105.59,W010,L02657,jessica.wilkerson6955@yahoo.com
+SRW0080237,R320,8.73,30.91,4.18,Bulk Storage,Under Maintenance,385.05,W008,NULL,NULL
+SRW0040238,R559,42.35,42.09,14.22,Dry Storage,Available,326.68,W004,NULL,NULL
+SRW0020239,R120,22.94,47.66,10.45,Dry Storage,Reserved,236.75,W002,L00710,krista.wolf8544@hotmail.com
+SRW0020240,R554,16.41,44.75,9.2,Dry Storage,Occupied,398.08,W002,L02757,sarah.lowe1975@hotmail.com
+SRW0020241,R699,34.72,49.32,5.8,Cold Storage,Under Maintenance,489.77,W002,NULL,NULL
+SRW0050242,R910,26.71,26.58,7.52,Dry Storage,Reserved,111.21,W005,L02962,john.lester7973@yahoo.com
+SRW0100243,R603,11.81,15.22,4.91,General Storage,Occupied,259.24,W010,L00008,brian.curtis8843@gmail.com
+SRW0030244,R721,29.81,21.05,5.24,Dry Storage,Available,251.23,W003,NULL,NULL
+SRW0010245,R265,43.51,9.43,14.12,Hazardous Materials Storage,Occupied,270.84,W001,L00768,danielle.orr2403@hotmail.com
+SRW0100246,R111,21.38,5.1,7.64,Cold Storage,Available,376.81,W010,NULL,NULL
+SRW0100247,R688,22.21,44.65,8.55,Hazardous Materials Storage,Under Maintenance,271.93,W010,NULL,NULL
+SRW0050248,R857,35.63,47.61,13.1,Dry Storage,Available,136.64,W005,NULL,NULL
+SRW0010249,R650,38.28,44.13,8.22,General Storage,Available,203.89,W001,NULL,NULL
+SRW0030250,R733,35.88,25.88,14.97,General Storage,Occupied,211.37,W003,L00854,keith.randolph4447@yahoo.com
+SRW0040251,R345,18.45,37.01,9.47,Bulk Storage,Occupied,139.1,W004,L02876,chad.reynolds5407@yahoo.com
+SRW0090252,R201,14.17,30.06,5.27,Dry Storage,Under Maintenance,196.13,W009,NULL,NULL
+SRW0010253,R749,33.52,15.74,9.84,Cold Storage,Under Maintenance,119.3,W001,NULL,NULL
+SRW0030254,R784,27.15,42.09,11.26,Dry Storage,Occupied,114.87,W003,L00748,melissa.hernandez2500@gmail.com
+SRW0050255,R595,10.49,13.47,8.57,General Storage,Under Maintenance,105.29,W005,NULL,NULL
+SRW0020256,R474,37.86,12.65,3.88,Hazardous Materials Storage,Available,132.59,W002,NULL,NULL
+SRW0050257,R593,8.11,33.38,3.21,Dry Storage,Available,322.64,W005,NULL,NULL
+SRW0020258,R621,10.47,13.49,14.21,Dry Storage,Occupied,138.11,W002,L01422,joseph.schwartz5631@gmail.com
+SRW0030259,R790,24.47,47.72,6.86,Bulk Storage,Reserved,52.99,W003,L02699,michael.kent24@gmail.com
+SRW0090260,R450,34.03,49.65,5.13,Dry Storage,Under Maintenance,491.97,W009,NULL,NULL
+SRW0020261,R217,45.89,32.39,9.15,Cold Storage,Under Maintenance,59.45,W002,NULL,NULL
+SRW0090262,R351,36.18,43.13,5.51,Dry Storage,Under Maintenance,85.61,W009,NULL,NULL
+SRW0060263,R880,22.86,12.97,13.07,Cold Storage,Under Maintenance,484.44,W006,NULL,NULL
+SRW0080264,R644,10.08,13.28,13.05,Hazardous Materials Storage,Occupied,238.15,W008,L00126,jeff.stewart9891@yahoo.com
+SRW0050265,R271,29.03,32.33,12.94,Hazardous Materials Storage,Under Maintenance,190.91,W005,NULL,NULL
+SRW0010266,R528,6.22,22.22,3.01,Dry Storage,Under Maintenance,113.74,W001,NULL,NULL
+SRW0040267,R859,16.51,35.31,7.77,Cold Storage,Under Maintenance,274.91,W004,NULL,NULL
+SRW0030268,R678,38.58,13.59,11.8,General Storage,Under Maintenance,438.37,W003,NULL,NULL
+SRW0080269,R608,18.73,29.51,6.94,Dry Storage,Under Maintenance,248.48,W008,NULL,NULL
+SRW0040270,R994,10.46,27.99,14.73,General Storage,Available,54.51,W004,NULL,NULL
+SRW0020271,R911,49.77,7.95,9.2,Hazardous Materials Storage,Under Maintenance,252.31,W002,NULL,NULL
+SRW0050272,R100,44.17,8.62,4.32,Hazardous Materials Storage,Reserved,408.24,W005,L01751,joseph.velazquez3487@yahoo.com
+SRW0100273,R110,21.97,27.67,4.01,Hazardous Materials Storage,Occupied,423.37,W010,L02373,patty.wilson2708@gmail.com
+SRW0100274,R619,39.67,37.64,9.92,General Storage,Available,472.67,W010,NULL,NULL
+SRW0060275,R313,16.11,30.49,14.44,Dry Storage,Under Maintenance,70.24,W006,NULL,NULL
+SRW0040276,R193,45.1,12.87,13.88,General Storage,Under Maintenance,84.73,W004,NULL,NULL
+SRW0050277,R690,31.32,7.34,10.95,Bulk Storage,Available,232.92,W005,NULL,NULL
+SRW0080278,R248,45.96,22.76,12.16,Hazardous Materials Storage,Under Maintenance,406.1,W008,NULL,NULL
+SRW0020279,R563,42.88,27.09,11.49,Dry Storage,Reserved,459.53,W002,L01360,jennifer.sherman3284@yahoo.com
+SRW0070280,R938,24.43,47.21,14.87,General Storage,Occupied,337.29,W007,L02939,annette.singh6300@yahoo.com
+SRW0020281,R686,37.48,16.4,5.96,Bulk Storage,Reserved,499.57,W002,L01654,kenneth.esparza8325@hotmail.com
+SRW0100282,R533,41.86,22.18,8.13,Dry Storage,Occupied,307.08,W010,L00178,stanley.delacruz7466@gmail.com
+SRW0060283,R561,18.69,47.54,9.7,Dry Storage,Reserved,250.31,W006,L00249,debra.adams4491@yahoo.com
+SRW0020284,R946,16.0,9.04,6.51,Bulk Storage,Reserved,293.97,W002,L01177,anthony.villa5904@gmail.com
+SRW0040285,R985,29.76,48.06,11.05,Hazardous Materials Storage,Under Maintenance,406.56,W004,NULL,NULL
+SRW0030286,R855,28.16,15.41,9.55,General Storage,Available,472.85,W003,NULL,NULL
+SRW0050287,R328,8.39,41.52,4.82,Hazardous Materials Storage,Under Maintenance,404.74,W005,NULL,NULL
+SRW0080288,R826,39.85,32.53,13.86,Hazardous Materials Storage,Reserved,279.82,W008,L02864,thomas.nelson3844@gmail.com
+SRW0080289,R281,42.09,27.05,9.36,Hazardous Materials Storage,Reserved,262.5,W008,L00620,rita.smith6253@hotmail.com
+SRW0070290,R911,32.86,29.31,14.82,General Storage,Occupied,494.99,W007,L02116,shane.sparks7219@hotmail.com
+SRW0060291,R774,31.22,5.49,10.77,Bulk Storage,Occupied,477.26,W006,L00677,erica.white9758@hotmail.com
+SRW0090292,R778,38.83,10.3,12.38,General Storage,Occupied,405.35,W009,L00621,gary.chavez6864@hotmail.com
+SRW0050293,R519,15.87,24.01,7.19,Bulk Storage,Occupied,468.48,W005,L02308,kimberly.graham6658@gmail.com
+SRW0050294,R504,25.49,11.63,12.15,Hazardous Materials Storage,Occupied,382.38,W005,L01796,deanna.morrison7578@gmail.com
+SRW0100295,R623,20.87,37.27,11.33,Hazardous Materials Storage,Occupied,221.99,W010,L02466,jennifer.carter7046@hotmail.com
+SRW0030296,R345,33.29,12.56,6.8,Bulk Storage,Under Maintenance,169.59,W003,NULL,NULL
+SRW0060297,R171,25.34,43.69,14.85,General Storage,Occupied,119.53,W006,L00075,martha.vasquez3954@gmail.com
+SRW0040298,R760,48.68,30.1,3.63,Hazardous Materials Storage,Reserved,88.12,W004,L00571,aaron.howard8940@gmail.com
+SRW0090299,R642,16.44,22.2,10.61,Cold Storage,Occupied,309.26,W009,L02127,carolyn.jones9001@yahoo.com
+SRW0010300,R720,33.73,42.94,11.0,Dry Storage,Reserved,117.83,W001,L01823,shelley.nichols4176@hotmail.com
+SRW0010301,R591,32.63,35.17,3.44,Dry Storage,Under Maintenance,495.52,W001,NULL,NULL
+SRW0070302,R655,42.54,14.18,7.71,Bulk Storage,Occupied,123.8,W007,L02717,loretta.moore7064@yahoo.com
+SRW0090303,R783,15.11,35.73,11.34,General Storage,Under Maintenance,208.64,W009,NULL,NULL
+SRW0030304,R226,11.2,6.08,10.22,General Storage,Occupied,144.59,W003,L01308,harold.gutierrez4639@gmail.com
+SRW0030305,R327,31.73,26.63,7.57,General Storage,Occupied,58.48,W003,L02073,luis.melton279@gmail.com
+SRW0010306,R273,41.0,5.7,11.71,Hazardous Materials Storage,Occupied,154.16,W001,L00992,rachel.pham6440@gmail.com
+SRW0080307,R991,45.96,16.32,11.77,Hazardous Materials Storage,Reserved,355.0,W008,L02284,nathan.porter6585@gmail.com
+SRW0050308,R800,17.94,19.54,12.6,Hazardous Materials Storage,Available,429.26,W005,NULL,NULL
+SRW0020309,R647,20.14,27.41,9.35,General Storage,Under Maintenance,358.61,W002,NULL,NULL
+SRW0040310,R774,46.16,26.89,9.01,General Storage,Available,282.6,W004,NULL,NULL
+SRW0070311,R597,37.52,22.21,3.83,Cold Storage,Available,319.98,W007,NULL,NULL
+SRW0100312,R699,9.53,33.42,3.91,Hazardous Materials Storage,Reserved,341.25,W010,L01297,sarah.donaldson9521@hotmail.com
+SRW0020313,R219,43.06,30.88,7.43,Bulk Storage,Available,119.43,W002,NULL,NULL
+SRW0030314,R516,23.06,37.28,14.22,Dry Storage,Available,52.26,W003,NULL,NULL
+SRW0050315,R524,40.99,44.07,12.58,Dry Storage,Reserved,321.92,W005,L02729,david.roman5568@yahoo.com
+SRW0010316,R781,19.3,37.05,6.02,Bulk Storage,Reserved,370.48,W001,L02847,julie.welch4337@yahoo.com
+SRW0050317,R294,47.07,37.42,11.28,Hazardous Materials Storage,Reserved,153.58,W005,L00632,christopher.zimmerman9402@yahoo.com
+SRW0080318,R114,11.98,12.45,5.5,Hazardous Materials Storage,Available,486.99,W008,NULL,NULL
+SRW0090319,R684,27.52,42.26,6.62,Bulk Storage,Available,225.88,W009,NULL,NULL
+SRW0080320,R948,44.07,17.16,12.78,Bulk Storage,Under Maintenance,481.4,W008,NULL,NULL
+SRW0090321,R235,20.62,6.8,14.24,General Storage,Occupied,487.1,W009,L02102,emma.cox5@yahoo.com
+SRW0010322,R666,27.99,29.17,13.09,General Storage,Occupied,141.21,W001,L01842,jose.armstrong4599@gmail.com
+SRW0030323,R869,43.25,16.5,8.35,Hazardous Materials Storage,Occupied,290.24,W003,L00773,valerie.schmidt3093@gmail.com
+SRW0080324,R525,49.34,37.87,7.65,Bulk Storage,Reserved,413.48,W008,L01415,william.burton7309@yahoo.com
+SRW0080325,R908,36.11,16.29,11.97,Cold Storage,Under Maintenance,319.12,W008,NULL,NULL
+SRW0070326,R412,33.64,34.24,7.82,Dry Storage,Under Maintenance,361.48,W007,NULL,NULL
+SRW0070327,R846,28.58,38.64,6.01,General Storage,Available,208.17,W007,NULL,NULL
+SRW0060328,R923,42.22,44.34,4.37,Hazardous Materials Storage,Available,354.18,W006,NULL,NULL
+SRW0080329,R308,41.66,29.78,9.61,General Storage,Under Maintenance,367.83,W008,NULL,NULL
+SRW0050330,R879,25.27,13.51,13.78,Dry Storage,Occupied,366.18,W005,L01589,tammy.duncan8619@hotmail.com
+SRW0020331,R321,24.6,21.22,10.85,General Storage,Under Maintenance,243.11,W002,NULL,NULL
+SRW0010332,R521,16.49,48.99,10.07,Dry Storage,Under Maintenance,321.12,W001,NULL,NULL
+SRW0080333,R773,8.35,24.57,9.58,General Storage,Under Maintenance,75.73,W008,NULL,NULL
+SRW0040334,R975,7.51,17.73,6.83,Hazardous Materials Storage,Reserved,168.09,W004,L00208,peggy.carter9743@yahoo.com
+SRW0020335,R830,33.34,15.71,9.93,Dry Storage,Reserved,234.59,W002,L02506,sara.james3627@gmail.com
+SRW0030336,R385,48.76,46.09,8.35,General Storage,Reserved,393.91,W003,L02418,luis.melton279@gmail.com
+SRW0090337,R589,9.26,43.38,8.47,Cold Storage,Under Maintenance,412.78,W009,NULL,NULL
+SRW0090338,R417,38.92,36.34,12.93,General Storage,Reserved,437.95,W009,L01207,pamela.miller4529@yahoo.com
+SRW0020339,R786,48.22,16.39,9.56,Dry Storage,Available,431.23,W002,NULL,NULL
+SRW0020340,R448,39.9,44.6,5.13,Bulk Storage,Reserved,226.86,W002,L02966,matthew.jones1929@gmail.com
+SRW0010341,R192,43.85,46.23,11.92,General Storage,Available,251.76,W001,NULL,NULL
+SRW0070342,R503,43.83,14.28,11.67,Hazardous Materials Storage,Available,417.6,W007,NULL,NULL
+SRW0090343,R348,44.78,20.35,3.74,Cold Storage,Reserved,256.99,W009,L02784,mike.smith4699@hotmail.com
+SRW0100344,R802,24.22,24.37,14.54,Dry Storage,Reserved,121.6,W010,L02422,keith.hart3181@yahoo.com
+SRW0030345,R396,44.43,23.74,4.29,Bulk Storage,Under Maintenance,266.12,W003,NULL,NULL
+SRW0100346,R567,18.1,27.66,14.85,Hazardous Materials Storage,Reserved,118.96,W010,L02835,roger.gray1389@yahoo.com
+SRW0100347,R771,10.46,23.31,6.89,Cold Storage,Occupied,218.79,W010,L02436,derrick.moreno1538@yahoo.com
+SRW0060348,R358,24.87,37.32,7.34,Cold Storage,Available,436.34,W006,NULL,NULL
+SRW0070349,R361,31.84,11.02,9.91,Bulk Storage,Under Maintenance,366.82,W007,NULL,NULL
+SRW0080350,R749,20.72,42.18,12.57,Dry Storage,Available,206.02,W008,NULL,NULL
+SRW0020351,R723,14.77,12.58,7.2,Dry Storage,Occupied,368.55,W002,L00190,katie.perkins7143@yahoo.com
+SRW0080352,R233,45.79,19.82,13.75,Hazardous Materials Storage,Available,70.23,W008,NULL,NULL
+SRW0030353,R340,23.16,30.94,13.27,Dry Storage,Available,348.29,W003,NULL,NULL
+SRW0060354,R914,25.77,47.2,13.55,Dry Storage,Available,157.92,W006,NULL,NULL
+SRW0040355,R921,5.04,40.06,3.86,Dry Storage,Under Maintenance,82.19,W004,NULL,NULL
+SRW0090356,R981,43.26,27.53,7.21,Hazardous Materials Storage,Available,266.89,W009,NULL,NULL
+SRW0070357,R108,32.56,24.45,11.7,Bulk Storage,Under Maintenance,203.14,W007,NULL,NULL
+SRW0060358,R267,13.57,24.61,13.55,General Storage,Under Maintenance,101.58,W006,NULL,NULL
+SRW0100359,R104,45.27,8.94,9.41,General Storage,Occupied,63.07,W010,L00703,christine.hardy5641@yahoo.com
+SRW0060360,R609,49.57,25.73,7.34,Dry Storage,Under Maintenance,360.84,W006,NULL,NULL
+SRW0050361,R144,47.09,24.86,5.21,Cold Storage,Occupied,125.83,W005,L02339,juan.anthony9025@hotmail.com
+SRW0030362,R390,45.67,23.25,13.82,General Storage,Occupied,432.19,W003,L02996,eric.giles9148@gmail.com
+SRW0080363,R852,12.79,42.66,9.94,Bulk Storage,Occupied,419.63,W008,L01891,max.ferguson2640@gmail.com
+SRW0100364,R296,6.49,49.82,7.71,Cold Storage,Reserved,287.5,W010,L02456,christopher.forbes6522@hotmail.com
+SRW0030365,R336,42.45,37.11,5.76,Cold Storage,Available,383.24,W003,NULL,NULL
+SRW0020366,R820,18.98,17.23,9.73,Dry Storage,Occupied,134.71,W002,L00957,jennifer.gates3025@gmail.com
+SRW0020367,R554,40.68,17.1,9.34,Bulk Storage,Available,229.85,W002,NULL,NULL
+SRW0050368,R952,8.15,14.42,9.27,General Storage,Occupied,341.12,W005,L02554,michael.hoffman9431@gmail.com
+SRW0050369,R776,20.51,19.23,14.25,Hazardous Materials Storage,Under Maintenance,135.54,W005,NULL,NULL
+SRW0010370,R654,30.72,33.63,5.88,Cold Storage,Reserved,161.37,W001,L02721,kim.smith9859@yahoo.com
+SRW0070371,R458,49.35,28.37,4.23,General Storage,Reserved,229.82,W007,L01222,robert.rose771@gmail.com
+SRW0060372,R680,42.84,35.59,6.37,Dry Storage,Occupied,389.2,W006,L02804,tricia.west2779@hotmail.com
+SRW0090373,R901,26.04,24.11,6.47,Cold Storage,Reserved,424.79,W009,L01488,beth.barnes3360@gmail.com
+SRW0080374,R578,12.95,23.31,12.01,General Storage,Under Maintenance,85.88,W008,NULL,NULL
+SRW0080375,R528,8.75,5.77,14.13,Hazardous Materials Storage,Under Maintenance,360.3,W008,NULL,NULL
+SRW0030376,R867,38.63,48.53,13.7,Cold Storage,Reserved,453.46,W003,L01468,ashley.gibson862@hotmail.com
+SRW0020377,R922,45.31,38.91,12.75,Hazardous Materials Storage,Available,247.91,W002,NULL,NULL
+SRW0040378,R749,35.07,35.7,12.8,Bulk Storage,Reserved,86.16,W004,L01303,katelyn.wilson5130@hotmail.com
+SRW0020379,R199,23.67,31.46,7.76,Dry Storage,Available,203.64,W002,NULL,NULL
+SRW0050380,R949,34.96,43.3,8.69,Bulk Storage,Occupied,405.65,W005,L02410,angela.horn8858@yahoo.com
+SRW0060381,R352,5.43,14.58,6.8,General Storage,Under Maintenance,104.36,W006,NULL,NULL
+SRW0070382,R893,20.41,23.46,7.78,Cold Storage,Under Maintenance,493.7,W007,NULL,NULL
+SRW0100383,R126,10.87,41.22,11.87,General Storage,Under Maintenance,244.79,W010,NULL,NULL
+SRW0040384,R253,49.95,12.0,11.12,Cold Storage,Under Maintenance,277.58,W004,NULL,NULL
+SRW0070385,R547,30.6,21.39,10.23,Bulk Storage,Reserved,419.8,W007,L02528,gloria.johnson2042@gmail.com
+SRW0040386,R248,16.78,27.96,4.86,Bulk Storage,Reserved,214.22,W004,L02922,megan.griffin9214@hotmail.com
+SRW0030387,R649,9.43,6.66,5.02,Hazardous Materials Storage,Reserved,353.64,W003,L00636,shane.barnett5119@hotmail.com
+SRW0040388,R674,15.96,39.37,7.87,Hazardous Materials Storage,Occupied,443.54,W004,L01147,elizabeth.braun1657@gmail.com
+SRW0060389,R182,48.36,40.42,13.8,Cold Storage,Under Maintenance,175.9,W006,NULL,NULL
+SRW0010390,R747,23.98,40.59,4.82,Dry Storage,Reserved,379.89,W001,L02103,mia.maldonado3007@gmail.com
+SRW0090391,R629,24.39,21.47,11.36,Dry Storage,Available,360.67,W009,NULL,NULL
+SRW0080392,R278,23.8,45.89,12.34,Bulk Storage,Reserved,444.82,W008,L00832,jason.torres5686@gmail.com
+SRW0100393,R791,29.33,25.48,11.0,Cold Storage,Available,228.73,W010,NULL,NULL
+SRW0080394,R717,31.6,13.67,8.84,Hazardous Materials Storage,Under Maintenance,109.78,W008,NULL,NULL
+SRW0040395,R471,41.86,30.29,14.54,Bulk Storage,Reserved,110.74,W004,L01393,steven.miller9731@gmail.com
+SRW0010396,R280,28.43,25.82,10.59,Bulk Storage,Reserved,257.19,W001,L02543,sabrina.rogers4671@yahoo.com
+SRW0070397,R980,24.29,13.53,4.48,Cold Storage,Occupied,96.69,W007,L02678,jessica.rodriguez376@gmail.com
+SRW0090398,R124,44.02,13.69,4.21,Hazardous Materials Storage,Available,431.05,W009,NULL,NULL
+SRW0050399,R193,7.0,44.2,14.71,Hazardous Materials Storage,Reserved,134.92,W005,L00739,herbert.cook5562@hotmail.com
+SRW0080400,R138,27.84,20.23,3.84,Cold Storage,Occupied,231.45,W008,L02928,pamela.anderson8637@hotmail.com
+SRW0050401,R817,19.32,6.89,5.24,General Storage,Under Maintenance,359.02,W005,NULL,NULL
+SRW0090402,R377,20.59,31.5,13.49,Dry Storage,Occupied,422.97,W009,L00849,michele.avila4273@hotmail.com
+SRW0050403,R336,10.49,11.05,10.07,Cold Storage,Occupied,179.45,W005,L00068,luis.ramirez6944@yahoo.com
+SRW0050404,R194,26.34,41.92,12.55,Hazardous Materials Storage,Available,290.62,W005,NULL,NULL
+SRW0090405,R536,38.74,40.95,11.24,Bulk Storage,Available,158.54,W009,NULL,NULL
+SRW0070406,R621,22.65,24.63,14.39,Dry Storage,Under Maintenance,116.21,W007,NULL,NULL
+SRW0090407,R348,32.63,40.04,7.89,Dry Storage,Available,469.16,W009,NULL,NULL
+SRW0090408,R515,22.15,6.95,11.03,General Storage,Under Maintenance,164.95,W009,NULL,NULL
+SRW0020409,R144,10.37,38.43,5.76,General Storage,Under Maintenance,329.83,W002,NULL,NULL
+SRW0070410,R457,28.05,38.85,10.76,Bulk Storage,Under Maintenance,168.62,W007,NULL,NULL
+SRW0030411,R814,38.7,39.43,14.91,Dry Storage,Reserved,469.08,W003,L00174,carla.smith4134@gmail.com
+SRW0020412,R841,48.83,16.37,4.21,Hazardous Materials Storage,Available,89.61,W002,NULL,NULL
+SRW0050413,R943,35.78,14.37,7.92,Hazardous Materials Storage,Reserved,234.2,W005,L01666,bryan.wright9367@gmail.com
+SRW0100414,R664,23.71,36.31,14.09,Hazardous Materials Storage,Under Maintenance,420.9,W010,NULL,NULL
+SRW0070415,R521,45.88,35.45,9.83,Cold Storage,Available,176.35,W007,NULL,NULL
+SRW0100416,R778,6.39,22.03,4.06,Cold Storage,Available,82.7,W010,NULL,NULL
+SRW0030417,R725,17.21,39.46,5.74,Hazardous Materials Storage,Available,478.16,W003,NULL,NULL
+SRW0050418,R559,11.17,7.93,6.88,Dry Storage,Reserved,450.56,W005,L01805,paul.lee7088@yahoo.com
+SRW0050419,R827,13.19,45.59,6.67,Dry Storage,Reserved,425.84,W005,L01312,tristan.arnold5516@gmail.com
+SRW0020420,R644,47.31,43.03,4.58,Cold Storage,Available,401.0,W002,NULL,NULL
+SRW0010421,R327,19.68,28.26,11.37,Bulk Storage,Reserved,79.88,W001,L02793,laura.brown3568@hotmail.com
+SRW0010422,R656,21.02,45.29,7.57,General Storage,Occupied,409.91,W001,L02795,jeremy.curtis4737@hotmail.com
+SRW0050423,R308,45.42,46.62,10.19,Bulk Storage,Occupied,311.5,W005,L00162,brenda.hancock9089@yahoo.com
+SRW0100424,R796,12.06,15.18,10.44,Dry Storage,Reserved,253.59,W010,L02762,jesse.coleman111@gmail.com
+SRW0010425,R346,45.83,38.2,12.46,General Storage,Available,242.25,W001,NULL,NULL
+SRW0070426,R229,19.3,13.23,7.22,General Storage,Available,325.18,W007,NULL,NULL
+SRW0060427,R793,37.91,10.54,8.72,General Storage,Occupied,299.4,W006,L02888,james.fletcher9835@yahoo.com
+SRW0030428,R920,11.42,32.32,8.54,Cold Storage,Under Maintenance,259.92,W003,NULL,NULL
+SRW0040429,R656,13.4,11.02,11.26,Bulk Storage,Under Maintenance,122.21,W004,NULL,NULL
+SRW0060430,R943,9.29,20.8,10.74,Dry Storage,Available,181.56,W006,NULL,NULL
+SRW0040431,R632,46.89,22.19,8.3,General Storage,Available,392.24,W004,NULL,NULL
+SRW0010432,R712,24.91,19.14,13.15,Hazardous Materials Storage,Occupied,184.91,W001,L00034,james.castillo471@hotmail.com
+SRW0020433,R462,45.6,45.36,10.01,General Storage,Reserved,279.22,W002,L00715,roger.shannon9161@yahoo.com
+SRW0030434,R315,37.03,26.32,5.6,General Storage,Available,56.44,W003,NULL,NULL
+SRW0020435,R301,28.07,22.02,10.01,Bulk Storage,Under Maintenance,112.25,W002,NULL,NULL
+SRW0090436,R489,48.96,41.76,7.77,Bulk Storage,Available,442.1,W009,NULL,NULL
+SRW0020437,R727,5.82,34.73,14.86,Hazardous Materials Storage,Available,177.21,W002,NULL,NULL
+SRW0100438,R251,7.71,44.62,7.81,Dry Storage,Under Maintenance,83.44,W010,NULL,NULL
+SRW0020439,R959,43.93,13.76,11.38,Hazardous Materials Storage,Occupied,141.63,W002,L02192,julie.gordon5977@yahoo.com
+SRW0050440,R262,10.07,45.76,8.53,Hazardous Materials Storage,Available,418.57,W005,NULL,NULL
+SRW0070441,R331,19.27,17.28,9.09,Bulk Storage,Under Maintenance,397.33,W007,NULL,NULL
+SRW0030442,R997,25.07,49.05,14.81,Bulk Storage,Available,290.5,W003,NULL,NULL
+SRW0060443,R615,46.13,23.67,9.16,Dry Storage,Under Maintenance,411.6,W006,NULL,NULL
+SRW0060444,R882,29.4,36.83,7.79,Cold Storage,Available,293.72,W006,NULL,NULL
+SRW0050445,R492,33.36,9.36,7.73,Bulk Storage,Under Maintenance,349.73,W005,NULL,NULL
+SRW0050446,R801,15.23,38.92,6.44,General Storage,Under Maintenance,470.64,W005,NULL,NULL
+SRW0030447,R678,25.04,44.45,7.46,Dry Storage,Reserved,78.93,W003,L00060,sarah.mann5140@yahoo.com
+SRW0030448,R895,24.83,16.08,10.36,Cold Storage,Reserved,188.27,W003,L01699,valerie.newman5125@yahoo.com
+SRW0030449,R333,21.33,38.31,12.46,General Storage,Occupied,314.55,W003,L01944,christopher.franco3745@gmail.com
+SRW0050450,R732,47.35,35.88,8.5,Cold Storage,Under Maintenance,194.56,W005,NULL,NULL
+SRW0020451,R202,22.01,27.93,10.74,Dry Storage,Under Maintenance,217.81,W002,NULL,NULL
+SRW0090452,R135,45.41,42.36,3.97,Bulk Storage,Under Maintenance,388.02,W009,NULL,NULL
+SRW0040453,R832,12.12,46.36,12.78,Bulk Storage,Occupied,194.56,W004,L00520,lisa.clark5204@hotmail.com
+SRW0080454,R213,8.15,25.29,13.05,General Storage,Under Maintenance,294.31,W008,NULL,NULL
+SRW0070455,R442,25.17,30.73,7.06,Bulk Storage,Available,149.73,W007,NULL,NULL
+SRW0030456,R285,45.94,36.63,3.82,General Storage,Occupied,369.01,W003,L01153,scott.wallace7500@gmail.com
+SRW0050457,R391,49.54,23.65,10.1,Cold Storage,Under Maintenance,386.05,W005,NULL,NULL
+SRW0070458,R127,48.83,6.43,5.0,Dry Storage,Occupied,432.94,W007,L00548,alicia.mclean9284@gmail.com
+SRW0040459,R856,28.76,49.81,8.14,Cold Storage,Under Maintenance,375.14,W004,NULL,NULL
+SRW0090460,R377,32.51,25.12,8.85,Hazardous Materials Storage,Available,174.43,W009,NULL,NULL
+SRW0030461,R838,15.36,14.25,11.79,Hazardous Materials Storage,Available,400.36,W003,NULL,NULL
+SRW0030462,R131,35.7,30.83,5.44,Cold Storage,Under Maintenance,147.43,W003,NULL,NULL
+SRW0020463,R258,11.98,17.04,11.17,Cold Storage,Available,369.56,W002,NULL,NULL
+SRW0090464,R110,32.78,11.7,8.6,Hazardous Materials Storage,Under Maintenance,113.47,W009,NULL,NULL
+SRW0030465,R436,45.42,27.36,7.7,Dry Storage,Occupied,289.12,W003,L00948,charles.johnson6380@yahoo.com
+SRW0050466,R509,23.36,20.85,11.75,Hazardous Materials Storage,Under Maintenance,95.58,W005,NULL,NULL
+SRW0070467,R421,16.98,49.68,7.72,Bulk Storage,Under Maintenance,60.95,W007,NULL,NULL
+SRW0070468,R673,30.25,41.11,6.88,Bulk Storage,Available,414.19,W007,NULL,NULL
+SRW0030469,R651,11.32,8.92,8.43,General Storage,Reserved,418.19,W003,L00332,whitney.stephens7674@gmail.com
+SRW0050470,R745,22.35,16.83,13.64,General Storage,Occupied,81.88,W005,L00726,angela.holloway5352@hotmail.com
+SRW0020471,R261,18.4,12.41,3.23,Bulk Storage,Reserved,281.83,W002,L00722,james.walsh5302@yahoo.com
+SRW0020472,R349,40.44,24.31,4.33,Hazardous Materials Storage,Under Maintenance,422.77,W002,NULL,NULL
+SRW0090473,R511,36.6,43.32,6.72,Cold Storage,Reserved,178.97,W009,L01016,gerald.lewis5376@hotmail.com
+SRW0070474,R610,41.03,6.41,10.52,Cold Storage,Occupied,62.32,W007,L02177,rachael.martinez7237@gmail.com
+SRW0050475,R154,49.08,29.05,4.55,Dry Storage,Occupied,127.24,W005,L01571,emma.hatfield68@yahoo.com
+SRW0040476,R829,20.75,33.4,11.39,General Storage,Under Maintenance,265.47,W004,NULL,NULL
+SRW0070477,R995,46.81,14.74,8.55,Dry Storage,Reserved,361.2,W007,L01360,jennifer.sherman3284@yahoo.com
+SRW0030478,R680,30.65,46.42,12.17,Dry Storage,Available,210.47,W003,NULL,NULL
+SRW0070479,R726,8.45,26.63,14.1,General Storage,Available,144.45,W007,NULL,NULL
+SRW0080480,R433,35.84,21.6,11.65,Dry Storage,Reserved,368.27,W008,L00937,brian.ayala2599@hotmail.com
+SRW0080481,R267,27.29,15.06,11.27,Hazardous Materials Storage,Reserved,340.86,W008,L02343,gregory.knight678@hotmail.com
+SRW0060482,R152,30.37,42.15,6.31,Cold Storage,Occupied,51.86,W006,L01342,jessica.johnson278@gmail.com
+SRW0020483,R476,33.73,36.1,3.86,Bulk Storage,Under Maintenance,122.14,W002,NULL,NULL
+SRW0070484,R379,12.15,11.9,9.92,Dry Storage,Occupied,316.55,W007,L02756,michelle.velasquez3939@yahoo.com
+SRW0040485,R233,35.57,43.22,4.65,Cold Storage,Under Maintenance,395.71,W004,NULL,NULL
+SRW0090486,R898,29.89,27.93,13.84,Cold Storage,Occupied,497.84,W009,L02053,robert.ortiz727@gmail.com
+SRW0040487,R960,36.07,17.76,8.45,Cold Storage,Occupied,312.09,W004,L02158,robert.williams5403@hotmail.com
+SRW0020488,R329,29.9,44.04,6.8,Hazardous Materials Storage,Under Maintenance,236.92,W002,NULL,NULL
+SRW0040489,R999,45.09,17.4,13.66,Cold Storage,Reserved,374.71,W004,L00644,brian.matthews1924@yahoo.com
+SRW0020490,R461,6.46,8.17,12.83,Cold Storage,Occupied,87.23,W002,L02602,morgan.hall3063@gmail.com
+SRW0040491,R904,41.73,36.38,12.39,Hazardous Materials Storage,Occupied,488.33,W004,L00203,evan.davis4776@hotmail.com
+SRW0010492,R656,18.14,43.25,7.94,Hazardous Materials Storage,Occupied,112.25,W001,L02240,charles.cooper6044@hotmail.com
+SRW0030493,R915,45.26,48.59,14.23,Bulk Storage,Under Maintenance,315.27,W003,NULL,NULL
+SRW0060494,R590,29.27,16.62,12.81,General Storage,Reserved,332.13,W006,L01257,alicia.mclean9284@gmail.com
+SRW0040495,R950,15.53,11.93,3.73,Hazardous Materials Storage,Under Maintenance,417.39,W004,NULL,NULL
+SRW0020496,R302,42.03,36.2,3.32,General Storage,Under Maintenance,394.11,W002,NULL,NULL
+SRW0060497,R633,35.19,48.02,7.85,Cold Storage,Available,283.33,W006,NULL,NULL
+SRW0050498,R403,35.14,45.74,13.29,General Storage,Reserved,301.81,W005,L02472,alex.brown6067@hotmail.com
+SRW0010499,R564,44.22,24.21,3.04,Hazardous Materials Storage,Occupied,499.76,W001,L02942,felicia.gill6402@yahoo.com
+SRW0060500,R827,36.16,36.97,7.74,General Storage,Reserved,73.68,W006,L01164,brett.church5248@gmail.com
