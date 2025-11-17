@@ -1,5 +1,5 @@
 CREATE TABLE PostalArea (
-    postalCode VARCHAR(8),
+    postalCode VARCHAR(8) NOT NULL,
     city VARCHAR(200) NOT NULL,
     PRIMARY KEY (postalCode)
 );
@@ -77,8 +77,8 @@ CREATE TABLE StorageRoom (
     availabilityStatus VARCHAR(100) NOT NULL,
     rentalPricePerDay DECIMAL(19,2) NOT NULL,
     warehouseID CHAR(4) NOT NULL,
-    email VARCHAR(255) NOT NULL,
-    leaseID CHAR(6) NOT NULL,
+    email VARCHAR(255),
+    leaseID CHAR(6),
     PRIMARY KEY (roomID),
     FOREIGN KEY (warehouseID) REFERENCES Warehouse(warehouseID),
     FOREIGN KEY (email) REFERENCES Customer(email),
