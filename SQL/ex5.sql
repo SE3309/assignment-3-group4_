@@ -74,4 +74,12 @@ HAVING
     COUNT(sr.roomID) > 1
 ORDER BY roomsRented DESC;
 
-
+/* Calculate the occupancy rate for each warehouse */
+SELECT w.warehouseID AS warehouse,
+COUNT(s.roomID) AS total_rooms,
+SUM(s.availabilityStatus = 'Occupied') AS occupied_rooms,
+ROUND(100.0 * SUM(s.availabilityStatus = 'Occupied') / NULLIF(COUNT(s.roomID), 0), 2) AS occupancy_rate
+FROM Warehouse w
+LEFT JOIN StorageRoom s ON w.warehouseID = s.warehouseID
+GROUP BY w.warehouseID
+ORDER BY occupancy_rate DESC;
