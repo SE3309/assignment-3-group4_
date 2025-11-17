@@ -9,6 +9,11 @@ fake = Faker('en_CA')
 numRecords = 2500
 outputFile = 'SRC/customer_data.csv'
 
+conn = sqlite3.connect('SRC/StorageRoomManagement.db')
+cursor = conn.cursor()
+cursor.execute("SELECT postalCode FROM PostalArea")
+postal_codes = [row[0] for row in cursor.fetchall()]
+conn.close()
 
 existing_emails = set()
 existing_employeeIDs = set()
@@ -40,7 +45,7 @@ def generate_raw_data():
     email = generate_unique_email(firstName, lastName)
     dateOfBirth = fake.date_of_birth(minimum_age=18, maximum_age=80).strftime("%Y-%m-%d")
     street = fake.street_address()
-    postal_code = fake.postcode()
+    postal_code = random.choice(postal_codes)
     return [firstName, lastName, phoneNo, email, dateOfBirth, street, postal_code]
 
 
