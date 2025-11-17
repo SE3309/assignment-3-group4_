@@ -40,3 +40,17 @@ WHERE EXISTS (
     AND r.availabilityStatus = 'Available'
 )
 ORDER BY p.postalCode, w.warehouseID;
+
+/* total revenue for each warehousem */
+SELECT 
+    w.warehouseID,
+    COALESCE(SUM(t.amount), 0) AS totalRevenue
+FROM Warehouse w
+LEFT JOIN StorageRoom sr 
+    ON sr.warehouseID = w.warehouseID
+LEFT JOIN LeaseAgreement la 
+    ON la.leaseID = sr.leaseID
+LEFT JOIN Transactions t 
+    ON t.transactionID = la.transactionID
+GROUP BY w.warehouseID
+ORDER BY totalRevenue DESC;
