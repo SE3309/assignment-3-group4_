@@ -4,7 +4,7 @@ CREATE TABLE PostalArea (
 );
 
 CREATE TABLE Warehouse (
-    warehouseID INT NOT NULL AUTO_INCREMENT,
+    warehouseID CHAR(4) NOT NULL,
     street VARCHAR(300) NOT NULL,
     postalCode VARCHAR(8) NOT NULL,
     PRIMARY KEY (warehouseID),
@@ -12,74 +12,74 @@ CREATE TABLE Warehouse (
 );
 
 CREATE TABLE Employee (
-    employeeID INT NOT NULL AUTO_INCREMENT,
-    fName VARCHAR(100) NOT NULL,
-    lName VARCHAR(100) NOT NULL,
-    phoneNO VARCHAR(25) NOT NULL,
-    email VARCHAR(320) NOT NULL,
+    employeeID CHAR(8) NOT NULL,
+    firstName VARCHAR(100) NOT NULL,
+    lastName VARCHAR(100) NOT NULL,
+    phoneNo VARCHAR(25) NOT NULL,
+    email VARCHAR(255) NOT NULL,
     empRole VARCHAR(100),
-    warehouseID INT NOT NULL,
+    warehouseID CHAR(4) NOT NULL,
     PRIMARY KEY (employeeID),
     FOREIGN KEY (warehouseID) REFERENCES Warehouse(warehouseID)
 );
 
 CREATE TABLE Customer (
-    emailAddress VARCHAR(255) NOT NULL,
-    fName VARCHAR(100) NOT NULL,
-    lName VARCHAR(100) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    firstName VARCHAR(100) NOT NULL,
+    lastName VARCHAR(100) NOT NULL,
     phoneNo VARCHAR(30) NOT NULL,
-    DateOfBirth DATE NOT NULL,
-    unit VARCHAR(20),
+    dateOfBirth DATE NOT NULL,
     street VARCHAR(300) NOT NULL,
     postalCode VARCHAR(8) NOT NULL,
-    PRIMARY KEY (emailAddress),
+    PRIMARY KEY (email),
     FOREIGN KEY (postalCode) REFERENCES PostalArea(postalCode)
 );
 
 CREATE TABLE Transactions (
-    transactionID INT NOT NULL AUTO_INCREMENT,
+    transactionID CHAR(7) NOT NULL,
     amount DECIMAL(19,2) NOT NULL,
     paymentType VARCHAR(100) NOT NULL,
+    paymentDetails VARCHAR(100) NOT NULL,
     transactionDate DATE NOT NULL,
-    transactionStatus VARCHAR(20),
-    emailAddress VARCHAR(255) NOT NULL,
+    transactionStatus VARCHAR(20) NOT NULL,
+    email VARCHAR(255) NOT NULL,
     PRIMARY KEY (transactionID),
-    FOREIGN KEY (emailAddress) REFERENCES Customer(emailAddress)
+    FOREIGN KEY (email) REFERENCES Customer(email)
 );
 
 CREATE TABLE Discount (
-    discountID INT PRIMARY KEY AUTO_INCREMENT,
+    discountID CHAR(4) PRIMARY KEY,
     discountCode VARCHAR(100) NOT NULL,
-    percentage DECIMAL(5,4) NOT NULL
+    percentage SMALLINT NOT NULL
 );
 
 CREATE TABLE LeaseAgreement (
-    leaseID INT NOT NULL AUTO_INCREMENT,
-    startDATE DATE NOT NULL,
-    endDATE DATE NOT NULL,
+    leaseID CHAR(6) NOT NULL,
+    startDate DATE NOT NULL,
+    endDate DATE NOT NULL,
     leaseConditions VARCHAR(200),
-    transactionID INT NOT NULL,
-    emailAddress VARCHAR(255) NOT NULL,
-    discountID INT,
+    transactionID CHAR(7) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    discountID CHAR(4),
     PRIMARY KEY (leaseID),
     FOREIGN KEY (transactionID) REFERENCES Transactions(transactionID),
-    FOREIGN KEY (emailAddress) REFERENCES Customer(emailAddress),
+    FOREIGN KEY (email) REFERENCES Customer(email),
     FOREIGN KEY (discountID) REFERENCES Discount(discountID)
 );
 CREATE TABLE StorageRoom (
-    roomID INT NOT NULL AUTO_INCREMENT,
-    roomNo SMALLINT NOT NULL,
+    roomID CHAR(10) NOT NULL,
+    roomNo CHAR(4) NOT NULL,
     roomLength DECIMAL(10,2) NOT NULL,
     roomWidth DECIMAL(10,2) NOT NULL,
     roomHeight DECIMAL(10,2) NOT NULL,
-    storageType VARCHAR(100),
+    storageType VARCHAR(100) NOT NULL,
     availabilityStatus VARCHAR(100) NOT NULL,
     rentalPricePerDay DECIMAL(19,2) NOT NULL,
-    warehouseID INT NOT NULL,
-    emailAddress VARCHAR(255),
-    leaseID INT,
+    warehouseID CHAR(4) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    leaseID CHAR(6) NOT NULL,
     PRIMARY KEY (roomID),
     FOREIGN KEY (warehouseID) REFERENCES Warehouse(warehouseID),
-    FOREIGN KEY (emailAddress) REFERENCES Customer(emailAddress),
+    FOREIGN KEY (email) REFERENCES Customer(email),
     FOREIGN KEY (leaseID) REFERENCES LeaseAgreement(leaseID)
 );
