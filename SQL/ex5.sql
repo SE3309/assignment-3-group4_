@@ -83,3 +83,18 @@ FROM Warehouse w
 LEFT JOIN StorageRoom s ON w.warehouseID = s.warehouseID
 GROUP BY w.warehouseID
 ORDER BY occupancy_rate DESC;
+
+/*Find all storages that will be available in the next 2 weeks and have a rental price less than 300*/
+SELECT sr.roomID, sr.warehouseID, sr.storageType, sr.email, sr.rentalPricePerDay
+FROM StorageRoom sr
+LEFT JOIN LeaseAgreement la
+    ON sr.leaseID = la.leaseID
+WHERE
+    (
+        la.endDate IS NOT NULL
+        AND DATE(la.endDate) <= DATE('now', '+14 days')
+    )
+    AND 
+    ( 
+		sr.rentalPricePerDay < 300 
+	)
