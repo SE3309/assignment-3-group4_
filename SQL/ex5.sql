@@ -1,28 +1,23 @@
-/* Finding all managers that work in London warehouses using
-JOIN */
-SELECT
-  e.employeeID, e.firstName, e.lastName, e.email, e.warehouseID, e.empRole
-FROM Employee AS e
-JOIN Warehouse AS w
-  ON e.warehouseID = w.warehouseID
-JOIN City AS c
-  ON w.postalCode = c.postalCode
-WHERE e.empRole = 'Manager'
-  AND c.city = 'London'
-ORDER BY e.lastName, e.firstName;
-
+/* Showing top 50 longest running lease in the system */
+SELECT la.leaseID, la.startDate, la.endDate, la.transactionID, la.email, t.amount, 
+DATEDIFF(la.endDate, la.startDate) AS leaseDuration
+FROM LeaseAgreement la
+LEFT JOIN Transactions AS t
+	ON la.transactionID = t.transactionID
+ORDER BY 
+	leaseDuration DESC
+LIMIT 50;
 
 
 /* Showing all rooms that cost above the average price for 
 their own storage type using AVG */
 SELECT r.roomID, r.roomNo, r.storageType, r.rentalPricePerDay
 FROM StorageRoom AS r
-WHERE r.rentalPrice >
+WHERE r.rentalPricePerDay >
       (SELECT AVG(r2.rentalPricePerDay)
        FROM StorageRoom AS r2
        WHERE r2.storageType = r.storageType)
 ORDER BY r.storageType, r.rentalPricePerDay DESC;
-
 
 
 /* Shows all warehouses that have at least one available 
@@ -41,7 +36,8 @@ WHERE EXISTS (
 )
 ORDER BY p.postalCode, w.warehouseID;
 
-/* total revenue for each warehousem */
+
+/* total revenue for each warehouse */
 SELECT 
     w.warehouseID,
     COALESCE(SUM(t.amount), 0) AS totalRevenue
@@ -55,24 +51,26 @@ LEFT JOIN Transactions t
 GROUP BY w.warehouseID
 ORDER BY totalRevenue DESC;
 
+
 /*Find customers who rented more than one room */
 SELECT
-    c.customerID,
-    c.fName,
-    c.lName,
+    c.email,
+    c.firstName,
+    c.lastName,
     COUNT(sr.roomID) AS roomsRented
 FROM Customer c
 LEFT JOIN LeaseAgreement la
-    ON la.customerID = c.customerID     
+    ON la.email = c.email    
 LEFT JOIN StorageRoom sr
     ON sr.leaseID = la.leaseID
 GROUP BY
-    c.customerID,
-    c.fName,
-    c.lName
+    c.email,
+    c.firstName,
+    c.lastName
 HAVING
     COUNT(sr.roomID) > 1
 ORDER BY roomsRented DESC;
+
 
 /* Calculate the occupancy rate for each warehouse */
 SELECT w.warehouseID AS warehouse,
@@ -84,17 +82,18 @@ LEFT JOIN StorageRoom s ON w.warehouseID = s.warehouseID
 GROUP BY w.warehouseID
 ORDER BY occupancy_rate DESC;
 
+
 /*Find all storages that will be available in the next 2 weeks and have a rental price less than 300*/
-SELECT sr.roomID, sr.warehouseID, sr.storageType, sr.email, sr.rentalPricePerDay
+SELECT sr.roomID, sr.warehouseID, sr.storageType, sr.email, sr.rentalPricePerDay, DATEDIFF(la.endDate, NOW()) AS daysRemaining
 FROM StorageRoom sr
 LEFT JOIN LeaseAgreement la
     ON sr.leaseID = la.leaseID
 WHERE
     (
         la.endDate IS NOT NULL
-        AND DATE(la.endDate) <= DATE('now', '+14 days')
+        AND DATE(la.endDate) <= DATE_ADD(NOW(), INTERVAL 28 DAY)
     )
-    AND 
-    ( 
-		sr.rentalPricePerDay < 300 
-	)
+    AND
+	(
+ 		DATEDIFF(la.endDate, NOW()) > 0
+	);
