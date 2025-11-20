@@ -22,13 +22,11 @@ WHERE t.transactionStatus = 'Cancelled'
           AND c.dateOfBirth < DATE('1990-01-01')
   );
 
-
 -- ----------------------------------
 
 UPDATE StorageRoom
 SET rentalPricePerDay = rentalPricePerDay * 1.15
 WHERE storageType = 'Bulk Storage';
-
 
 
  
