@@ -1,31 +1,31 @@
-from faker import Faker
+from faker import Faker #this is the main library used to generate fake data
 import random
 import csv
-import sqlite3
-import pandas as pd
+import sqlite3  #to interact with SQLite database
+import pandas as pd #to handle dataframes and CSV files
 
-fake = Faker('en_CA')
+fake = Faker('en_CA')   #initialize Faker with Canadian English locale
 
-numRecords = 3000
-outputFile = 'SRC/leaseAgreement_data.csv'
+numRecords = 3000   #number of lease agreement records to generate
+outputFile = 'SRC/leaseAgreement_data.csv'  #output CSV file path
 
-conditions = ['Climate Controlled', 'Multipurpose', 'Multiple Access', 'Standard', 'Vehicle Storage']
+conditions = ['Climate Controlled', 'Multipurpose', 'Multiple Access', 'Standard', 'Vehicle Storage']   #possible lease conditions
 
 
-conn = sqlite3.connect('SRC/StorageRoomManagement.db')
+conn = sqlite3.connect('SRC/StorageRoomManagement.db')  #connect to the SQLite database and it is named StorageRoomManagement.db
 cursor = conn.cursor()
-cursor.execute("SELECT email FROM Customer")
+cursor.execute("SELECT email FROM Customer")        #fetch all customer emails from Customer table
 customerEmails = [row[0] for row in cursor.fetchall()]
-cursor.execute("SELECT transactionID FROM Transactions")
+cursor.execute("SELECT transactionID FROM Transactions")   #fetch all transaction IDs from Transactions table
 transactionIDs = [row[0] for row in cursor.fetchall()]
-cursor.execute("SELECT discountID FROM Discount")
+cursor.execute("SELECT discountID FROM Discount")   #fetch all discount IDs from Discount table
 discountIDs = [row[0] for row in cursor.fetchall()]
 conn.close()
 
 
-existing_leaseIDs = set()
+existing_leaseIDs = set()   #to keep track of unique lease IDs
 
-def generate_leaseID(index):
+def generate_leaseID(index):    #generate unique lease IDs
     while True:
         leaseID = f"L{index:05d}"
         if leaseID not in existing_leaseIDs:
@@ -33,7 +33,7 @@ def generate_leaseID(index):
             return leaseID
         index += 1
 
-def generate_raw_data():
+def generate_raw_data():    #generate raw lease agreement data
     leaseID = generate_leaseID(len(existing_leaseIDs) + 1)
 
     
@@ -42,7 +42,7 @@ def generate_raw_data():
     leaseCondition = random.choice(conditions)    
     emailAddress = random.choice(customerEmails)
     transactionID = random.choice(transactionIDs)
-    discountID = random.choice(discountIDs) if random.random() >= 0.8 else 'NULL'
+    discountID = random.choice(discountIDs) if random.random() >= 0.8 else 'NULL'   #20% chance of having a discountID
 
     return [
         leaseID,
@@ -73,9 +73,9 @@ with open(outputFile, mode='w', newline='') as file:
 print(f"Generated {numRecords} records in {outputFile}")
 
 
-df = pd.read_csv(outputFile)
-conn = sqlite3.connect('SRC/StorageRoomManagement.db')
+df = pd.read_csv(outputFile)    #read the generated CSV file into a DataFrame
+conn = sqlite3.connect('SRC/StorageRoomManagement.db')  #connect to the SQLite database and it is named StorageRoomManagement.db
 df.to_sql('LeaseAgreement', conn, if_exists='replace', index=False)
 conn.close()
 
-print("Data imported into SQLite database 'SRC/StorageRoomManagement.db' into table 'lease_agreements'")
+print("Data imported into SQLite database 'SRC/StorageRoomManagement.db' into table 'lease_agreements'") 
